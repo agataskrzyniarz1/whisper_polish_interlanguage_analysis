@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-04-30T15:07:45+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/askrz/OneDrive/Pulpit/stage/pays/FR/RD/MB/corrigées/1104.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./1104.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4a8675a5-f58b-44ce-afb3-366a2767973b</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">14</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="25370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="25370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="28960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="28960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="29260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="29260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="36580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="36580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="37470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="37470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="44860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="44860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="45070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="45070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="53720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="53720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="54870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="54870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="63400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="63400"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="%pol">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>proszę idź prosto ulicą niską</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE> i za szpitalem proszę skręcić w prawo w ulicę juliusza słowackiego</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>a potem proszę iść prosto prosto obok teatru obok szkoły</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>i za sklepem proszę iść w lewo w ulicę dobrą</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>i tutaj znajduje się dobra cztery na lewo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="*STU">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>1104</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>proszę idź prosto ulice niskom</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>i za szpitalu proszę skrencić w prawo ulice juliuska słowackiego</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>i a potem proszę idź prosto prosto obok teatru obot szkoły</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>i za sklepem proszę idź # w lewo ulice dobron</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>i tutaj znaduje cię dobre cztery na lewo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

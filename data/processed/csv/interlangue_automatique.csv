@@ -1,0 +1,687 @@
+pays,apprenant,mot (interlangue),mot (automatique),transcription automatique,transcription manuelle,erreur de déclinaison?,erreur de prononciation?
+FR,1120,ulisa,ulica,tak po prostu ulica niska obok szpitala po prostu skroczyć na na prawo pieśń ulica skręcić na prawo czy na lewo skręcić na prawo ulica juliesa i pieśń po prostu obok restauracja obok teatr obok szkoła uniwersytetowa i skroczyć na lewo ulica dobra pieśń po prostu i skroczyć na lewo dobra cztery do do do do do ulica dobra cztery jest tak muszę skręcić na lewo i ulica dobra cztery jest gdzie się znajduje jest na lewo na lewo,tak prosto ulisa niska obok ospital prosto i skroczie na na grawo piese ulisa skrecić na prawo ulisa żuliesa i pies pro proto proto ubak ubok restorancja ubok teatr i ubok skola juwersytet i skroczie na lewo ulisa dobra pies prosto i skroczie na lewo dobra dobra czery do es na dona la dona jest na lewo,,oui
+FR,1120,ospital,szpitala,,,oui,oui
+FR,1120,skroczie,skroczyć,,,,oui
+FR,1120,grawo,prawo,,,,oui
+FR,1120,piese,pieśń,,,,
+FR,1120,ulisa,ulica,,,,oui
+FR,1120,skrecić,skręcić,,,,oui
+FR,1120,ulisa,ulica,,,,oui
+FR,1120,żuliesa,juliesa,,,,
+FR,1120,ubak,obok,,,,oui
+FR,1120,ubok,obok,,,,oui
+FR,1120,restorancja,restauracja,,,oui,oui
+FR,1120,ubok,obok,,,,oui
+FR,1120,ubok,obok,,,,oui
+FR,1120,skola,szkoła,,,oui,oui
+FR,1120,juwersytet,uniwersytetowa,,,oui,oui
+FR,1120,skroczie,skroczyć,,,,oui
+FR,1120,ulisa,ulica,,,,oui
+FR,1120,skroczie,skroczyć,,,,oui
+FR,1120,czery,cztery,,,,oui
+FR,1104,niskom,miską,proszę iść prosto ulicę miską i za szpitalu proszę skręcić w prawo ulicę juliuska słowackiego a potem proszę iść prosto prosto obok teatru obok szkoły i za sklepem proszę iść w lewo ulicę dobrą i tutaj znajdujecie dobre 4 na lewo,proszę idź prosto ulice niskom i za szpitalu proszę skrencić w prawo ulice juliuska słowackiego i a potem proszę idź prosto prosto obok teatru obot szkoły i za sklepem proszę idź w lewo ulice dobron i tutaj znaduje cię dobre cztery na lewo,,oui
+FR,1104,skrencić,skręcić,,,,oui
+FR,1104,juliuska,juliuska,,,,oui
+FR,1104,obot,obok,,,,oui
+FR,1104,dobron,dobrą,,,,oui
+FR,1104,znaduje,znajdujecie,,,,oui
+FR,1110,niszka,niżka,tak tak uwaga uwaga proszę iść prosto to jest ulica niżka to jest to jest proszę iść prosto za hospitale stręczysz w prawo to jest ulica juliusza słowackiego proszę iść prosto prosto bądź w restauracji bądź w sklepie bądź w teatrze prosto prosto i za sklepem proszę proszę skręcić w prawo i dom znajduje się w numer 4 ulicy dobrej,tak tak waga waga proszę idź prosto to jest ulica niszka to jest to to proszę iść prosto za ospitalem szkrencisz w prawo to jest ulica julius juliusza słowackiego proszę idź prosto prosto obok restorauk restoraucje obok skała obok teatr prosto prosto i za sklepem proszę ploszę skrencisz w lewo i dom znazduje się numer sztery ulice dobre,oui,oui
+FR,1110,ospitalem,hospitale,,,,oui
+FR,1110,szkrencisz,stręczysz,,,,oui
+FR,1110,julius,-,,,oui,oui
+FR,1110,restorauk,-,,,oui,oui
+FR,1110,restoraucje,restauracji,,,oui,oui
+FR,1110,ploszę,proszę,,,,
+FR,1110,skrencisz,skręcić,,,,oui
+FR,1110,znazduje,znajduje,,,,oui
+FR,1110,sztery,4,,,,oui
+FR,1119,skrencić,skręcić,idź prosto na ulicę niska obok szpitala skręcić w prawo skręcić w prawo ok na ulicę jóliuska słowackiego idź prosto prosto prosto obok restauracja teatr szkoły uniwersytet obok sklepu skręcić w lewo na ulicę dobrą dom kowalskiego jest na lewo,idź prosto na ulica niska obok spita szpitalem skrencić w prosto na w prawo prawo na ulica juliuska słowackiego idź prosto prosto prosto obok restora restoracja teatr skoly uniwersytet obok sklep sklep skrencić w lewo na ulica dobry dom kowalskiego jest na lewo,,oui
+FR,1119,juliuska,jóliuska,,,,oui
+FR,1119,restora,-,,,,
+FR,1119,restoracja,restauracja,,,oui,oui
+FR,1119,skoly,szkoły,,,,oui
+FR,1119,skrencić,skręcić,,,,oui
+FR,1108,szken,-,dobrej 4 proszę iść prosto ulica niska prosto prosto szkęcisz na prawo ulica juliusza słowackiego dobrze ulica juliusza słowackiego dobrze idź prosto obok szkoły obok uniwersytetu proszę iść prosto i ulica dobra skręcisz na lewo znajdujesz się dom kowalska,dobrej cztery proszę idź prosto ulika niska prosto prosto szken szken szkensiś na prawo ulica dżoliesa slołackiego idź prosto obok skola obok uniwersitet proszę idź prosto i ulika dobra skręcisz na lewo najduje się dom kowalska,,
+FR,1108,szken,-,,,,
+FR,1108,szkensiś,szkęcisz,,,,oui
+FR,1108,dżoliesa,juliusza,,,,
+FR,1108,slołackiego,słowackiego,,,,oui
+FR,1108,skola,szkoły,,,oui,oui
+FR,1108,uniwersitet,uniwersytetu,,,oui,oui
+FR,1108,najduje,znajdujesz,,,,oui
+FR,1103,ulicza,ulicą,idź prosto za ulicą niską i za hospitale skręcić na prawo za ulicą żuliuska słowackiego idź prosto prosto i za sklep skręcić na lewo za ulicą dobrej 4,idź prosto za ulicza niska i za ospitalem skręcić na prawo za ulisza żuliuska slowakiego iść prosto prosto i za skret skręcić na lewo za ulicza dobra numer sztery,,oui
+FR,1103,ospitalem,hospitale,,,,oui
+FR,1103,ulisza,ulicą,,,oui,oui
+FR,1103,żuliuska,żuliuska,,,,oui
+FR,1103,slowakiego,słowackiego,,,,oui
+FR,1103,skret,sklep,,,oui,oui
+FR,1103,ulicza,ulicą,,,,oui
+FR,1103,sztery,4,,,,oui
+FR,1116,skre,-,skręcisz prawo do szpitala skręcisz ulicę juliuska skołaskiego proszę iść prosto obok teatru szkole a potem skręcisz w lewo za sklepem skręcisz w lewo ulicę dobrej skręcisz w lewo 4 ulicy dobrej skręcisz w lewo 4 ulicy dobrej skręcisz w lewo 4 ulicy dobrej znajdujesz się w domu skołalskim,skre skrencisz a prawo zły szpitalu skrencisz ulicze ju juliuska skołaskiego proszę idź prosto prosto obok teatru skuole a potem skręcisz a skrencisz w lewo złe sklepu spren skrencisz w lewo ulicze dobre skrencisz w lewo scztery ulisze dobre znaduje sie dom skowalski,,
+FR,1116,skrencisz,skręcisz,,,,oui
+FR,1116,skrencisz,skręcisz,,,,oui
+FR,1116,ulicze,ulicę,,,,oui
+FR,1116,juliuska,juliuska,,,,oui
+FR,1116,skołaskiego,skołaskiego,,,,oui
+FR,1116,skuole,szkole,,,oui,oui
+FR,1116,skrencisz,skręcisz,,,,oui
+FR,1116,spren,-,,,,
+FR,1116,skrencisz,skręcisz,,,,oui
+FR,1116,ulicze,ulicy,,,,oui
+FR,1116,skrencisz,skręcisz,,,,oui
+FR,1116,scztery,4,,,,oui
+FR,1116,ulisze,ulicy,,,oui,oui
+FR,1116,znaduje,znajdujesz,,,,oui
+FR,1116,sie,się,,,,
+FR,1116,skowalski,skołalskim,,,oui,oui
+FR,1113,poszę,proszę,proszę iść prosto na ulicę niska tak za szpitalem skręcisz prawo na ulicę józefowskiego proszę iść prosto obok restauracji obok teatru i obok sklepu za sklepem za sklepem skręcisz w lewo na ulicę dobra i znajdujesz się na lewo tak na lewo tak na ulicy dobrej 4 na lewo numer 4 ulica dobra,poszę idź prosto na ulica niska za szpitalem skrencisz prawo na ulica dżulieska skowalskiego poszę idź posto obok restoraczje obok teatry i obok sklepem za sklebe za sklepem zna skrencisz w ljewo na ulica dobra i znaduje się na lewo nie tak numer cztery ulica dobra,,oui
+FR,1113,skrencisz,skręcisz,,,,oui
+FR,1113,dżulieska,-,,,,oui
+FR,1113,skowalskiego,józefowskiego,,,,oui
+FR,1113,poszę,proszę,,,,oui
+FR,1113,posto,prosto,,,,oui
+FR,1113,restoraczje,restauracji,,,oui,oui
+FR,1113,sklebe,sklepem,,,oui,oui
+FR,1113,skrencisz,skręcisz,,,,oui
+FR,1113,ljewo,lewo,,,,oui
+FR,1113,znaduje,znajdujesz,,,,oui
+FR,1118,niszka,niżka,proszę iść prosto ulicę niżka na szpital obok szpital proszę skręcić prawo ulicę juleska słowackiego proszę iść prosto ulicę juleska słowackiego na sklep proszę skręcić na lewo ulicę dobra proszę iść prosto ulicę dobra obok sklep i obok park znajdujesz się na lewo ulicę dobra nr 3,proszę iść prosto ulika niszka zna oszpital obok oszpital proszę skreciś prawo ulika juleska słowaskiego proszę iś prosto ulika julieska słowaskiego zna sklept proszę skrenciśt na lewo ulika dobra hasta proszę iść prosto ulika dobra obok sklept i obok park znaduje sie na lewo ulika dobra numero czery,oui,oui
+FR,1118,oszpital,szpital,,,oui,oui
+FR,1118,oszpital,szpital,,,oui,oui
+FR,1118,skreciś,skręcić,,,,oui
+FR,1118,juleska,juleska,,,,oui
+FR,1118,słowaskiego,słowackiego,,,,oui
+FR,1118,julieska,juleska,,,,oui
+FR,1118,słowaskiego,słowackiego,,,,oui
+FR,1118,sklept,sklep,,,oui,oui
+FR,1118,skrenciśt,skręcić,,,,oui
+FR,1118,sklept,sklep,,,oui,oui
+FR,1118,znaduje,znajdujesz,,,,oui
+FR,1118,sie,się,,,,
+FR,1118,numero,nr,,,,oui
+FR,1118,czery,3,,,,oui
+FR,1117,spital,szpitalu,jestem blisko ulicy niska i mieszkam w szpitalu więc nie jestem w porządku przeszłam proces i proces proces proces i obok sklepu na lewo na ulicę dobrą i na lewo jest nr 4,iszcze prosto na ulica niska i obok spital cienci na prawo proszę iścz proce i proste proste proste i obok sklept cz czrenczisz na lewo a na ulica dobra i an na lewo jest numer cztery,oui,oui
+FR,1117,cienci,więc,,,,
+FR,1117,iścz,-,,,,oui
+FR,1117,sklept,sklepu,,,oui,oui
+FR,1117,czrenczisz,-,,,,oui
+FR,1101,jestam,jestem,jestem szczęśliwa idź prosto na ulicę niską obok szpitala stręcz prawo wyprawo na ulicę huliuckiego-skłowienkiego idź prosto prosto prosto obok sklepu stręcz w lewo i znajdziesz dom na ulicy dobrej nr 4,jestam stanczy idź presto na ulica niska obok szpitalu strencić w prawo wy prawo na ulica huliucka sklowiańkiego idź prosto prosto prosto na obok sklep stręcić w lewo i znaduje się dom na ulic ulicy dobre numer cztery,,
+FR,1101,stanczy,szczęśliwa,,,,
+FR,1101,strencić,stręcz,,,,
+FR,1101,huliucka,-,,,,
+FR,1101,sklowiańkiego,huliuckiego-skłowienkiego,,,,oui
+FR,1101,stręcić,stręcz,,,,oui
+FR,1101,znaduje,znajdziesz,,,,oui
+FR,1115,hospitalu,ospitalem,tak proszę iść prosto ulica niska za ospitalem skręcisz na prawo proszę iść prosto ulica żuliuska słowackiego obok ospitalu obok restauracja obok teatru obok uniwersytetu obok sklepu za sklep proszę skręcisz na lewo ulica dobra proszę iść prosto i znajdujecie numer czery,tak proszę iść pro proszę idź prosto ulica niska za hospitalu skręcisz na prawo proszę idź prosto ulica żu żuliuska so sowaskiega obuk ospitalu obok restau restauracja obut teatru obut uniwersiteć obuk sklepts za sklepts proszę skrencisz na lewo ulica dobra proszę iś prosto i naduje cie numer czery numer czery,oui,oui
+FR,1115,żu,-,,,,
+FR,1115,żuliuska,żuliuska,,,,oui
+FR,1115,sowaskiega,słowackiego,,,,oui
+FR,1115,obuk,obok,,,,oui
+FR,1115,ospitalu,ospitalu,,,,oui
+FR,1115,restau,-,,,,
+FR,1115,obut,obok,,,,oui
+FR,1115,obut,obok,,,,oui
+FR,1115,uniwersiteć,uniwersytetu,,,oui,oui
+FR,1115,obuk,obok,,,,oui
+FR,1115,sklepts,sklepu,,,oui,oui
+FR,1115,sklepts,sklep,,,oui,oui
+FR,1115,skrencisz,skręcisz,,,,oui
+FR,1115,naduje,znajdujecie,,,,oui
+FR,1115,czery,czery,,,,oui
+FR,1115,czery,-,,,,oui
+FR,1112,juliuska,juliuska,proszę iść prosto na ulicę niską za szpitalem skręcić w prawo na ulicę juliuska słowackiego proszę iść prosto za sklepem skręcić w lewo na ulicę dobrej i dom jest na lewo na lewo tak na lewo,proszę iść prosto na ulica niska za szpitalu skręcić w prawo na ulica juliuska slowackiego proszę iść prosto za sklepu skręcić w lewo na ulica dobra i jest i dom jest na lewo na lewo,,oui
+FR,1112,slowackiego,słowackiego,,,,oui
+FR,1106,żuliusa,juliusza,może iść prosto na ulicę niską ze szpitala skręcić na prawo na ulicę juliusza skłodowskiego iść prosto prosto prosto prosto obok restauracja obok teatr obok sklep tak ze sklepu skręcić na lewo na ulicę dobrej i nr 4 jest na lewo,może iść prosto na ulica niska za szpitalu skręć na prawo na ulica żuliusa sk skowalskiego idź prosto prosto prosto prosto obok restoracja obok tiatr obok sklep za sklepu skrenć na lewo ulica dobra i numier cztery jest na lewo,,oui
+FR,1106,sk,-,,,,
+FR,1106,skowalskiego,skłodowskiego,,,,oui
+FR,1106,restoracja,restauracja,,,oui,oui
+FR,1106,tiatr,teatr,,,oui,oui
+FR,1106,skrenć,skręcić,,,,oui
+FR,1106,numier,nr,,,,oui
+IT,5112,ospital,szpitala,idź prosto ulicą niską do szpitala proszę skręcić w prawo do szpitala idź prosto ulicą słowaksiego obok restauracji i szkoła i teatr idź prosto ulicą słowaksiego do sklepu na rogu skręcić w lewo idź prosto ulicą dobrej idź prosto ulicy dobrej i dom kowalski jest znajduje się na lewo numer ulicy dobrej numer 4,ich iś prosto ulico nisko za do ospital proszę idź proszę skręcić w prawo za oszpitalu i ichś prosto ulica ulico słowaksjego obok restaurasja i szkuła i teatsz ikś prosto ulico słowaksjego do sklepu na rogu skręcić w lewo i iś prosto ulico dobru iś prosto ulice dobru i dom kowalski jest znaduje szie na lewo numer ulicy dobry numer szteri,oui,oui
+IT,5112,oszpitalu,szpitala,,,oui,oui
+IT,5112,ichś,idź,,,,oui
+IT,5112,słowaksjego,słowaksiego,,,,oui
+IT,5112,restaurasja,restauracji,,,oui,oui
+IT,5112,szkuła,szkoła,,,oui,oui
+IT,5112,teatsz,teatr,,,oui,oui
+IT,5112,ikś,idź,,,,oui
+IT,5112,słowaksjego,słowaksiego,,,,oui
+IT,5112,znaduje,znajduje,,,,oui
+IT,5112,szie,się,,,,oui
+IT,5112,szteri,4,,,,oui
+IT,5101,sztery,4,ulicę dobrej 4 proszę iść prosto ulicą niską aż do szpitalu za szpitalem proszę skręcić w prawo to jest ulica juliuszka słowackiego a potem proszę iść prosto obok szpitala obok restauracji szkoły i proszę iść za skrzyżowaniem i proszę iść prosto obok teatru szkoły uniwersytetu i sklepu na sklepem proszę skręcić w lewo ulicą dobrej i proszę iść prosto za sklepem dom skowalski znajduje się tutaj,ulice dobre sztery proszę iś prosto ulicon niskon aż do szpitalu za szpitalem proszę skręcić w prawo to jest ulica juliuszka słowackiego i a potem proszę iś prosto obok szpitalem obok restauracji skoły i proszę iś za skirzo skirzowani i proszę iść obok prosto obok teatszem skołe uniwersyteczem i sklepem na sklepem proszę skręcicz w lewo ulicon dobron i proszę iść prosto za sklepen dom dom skowalski znajduje szię tutuj,,oui
+IT,5101,ulicon,ulicą,,,oui,oui
+IT,5101,niskon,niską,,,,oui
+IT,5101,juliuszka,juliuszka,,,,oui
+IT,5101,skoły,szkoły,,,,oui
+IT,5101,skirzo,-,,,,
+IT,5101,skirzowani,skrzyżowaniem,,,,
+IT,5101,teatszem,teatru,,,oui,oui
+IT,5101,skołe,szkoły,,,oui,oui
+IT,5101,uniwersyteczem,uniwersytetu,,,oui,oui
+IT,5101,skręcicz,skręcić,,,,oui
+IT,5101,ulicon,ulicą,,,oui,oui
+IT,5101,dobron,dobrej,,,,oui
+IT,5101,sklepen,sklepem,,,,oui
+IT,5101,skowalski,skowalski,,,oui,oui
+IT,5101,szię,się,,,,oui
+IT,5101,tutuj,tutaj,,,,oui
+IT,5104,prożę,proszę,proszę iść prosto na ulicę niską za szpitalem skręcić w prawo proszę iść prosto na ulicę słowackiego obok restauracji obok szkoły obok szkoły obok teatru za sklepem proszę skręcić w lewo numer 4 znajduje się obok parku i sklepu na lewo,prożę iś prosto na ulicon niskon za szpitalem skręcić w prawo prożę iś prosto na ulica uli ulicon słowockiego obok restauracji obok szkoly obok teatr dza szklepe prożę skręcić w lewo numer sztery znaduje się obok parku i szklepe na lewo,,oui
+IT,5104,ulicon,ulicę,,,oui,oui
+IT,5104,niskon,niską,,,,oui
+IT,5104,prożę,proszę,,,,oui
+IT,5104,ulicon,ulicę,,,oui,oui
+IT,5104,słowockiego,słowackiego,,,,oui
+IT,5104,szkoly,szkoły,,,,oui
+IT,5104,dza,za,,,,oui
+IT,5104,szklepe,sklepem,,,oui,oui
+IT,5104,prożę,proszę,,,,oui
+IT,5104,sztery,4,,,,oui
+IT,5104,znaduje,znajduje,,,,oui
+IT,5104,szklepe,sklepu,,,oui,oui
+IT,5119,cztere,cztere,do ulicy dobrej cztere proszę iść prosto na ulicę niską i proszę skręcić w lewo do szpitala w prawo na ulicę słowackiego proszę iść prosto na ulicę słowackiego a do sklepu skręć się w lewo na ulicę dobrej i numer cztere jest na lewo tak na lewo,do ulicy dobre cztere tak proszę iś prosto na ulicon niskon i proszę skręcić w lewo a do szpitalu w prawo na ulicę słowackiego proszę iś prosto na ulicę słowackiego a do szklepu skręczić w lewo ulicon dobron i numer cztery jest na lewo tak na lewo,,
+IT,5119,ulicon,ulicę,,,oui,oui
+IT,5119,niskon,niską,,,,oui
+IT,5119,szklepu,sklepu,,,,oui
+IT,5119,skręczić,skręć,,,,oui
+IT,5119,ulicon,ulicę,,,oui,oui
+IT,5119,dobron,dobrej,,,,oui
+IT,5117,proszte,prościej,proszę iść prościej do szpitalu do szpitalu skręcić się w prawo na ulicę słowackiego a potem proszę iść prościej do ulicy dobrej 4 a potem proszę iść prościej do ulicy słowackiego a potem proszę iść prościej do ulicy słowackiego a potem proszę iść prościej do ulicy słowackiego,proszę iść proszte do szpitalu dze szpitalu skręciś skręcić wy wy prawo na ulica słowacjego a potem proszę iś prosto obok restauracji obok szyżowani obok teatr do sklep dze sklep skręcić w lewo ulica dobra a potem iś prosto i dom kowalski znaduje się na lewo,,oui
+IT,5117,dze,do,,,,oui
+IT,5117,skręciś,-,,,,oui
+IT,5117,słowacjego,słowackiego,,,,oui
+IT,5117,szyżowani,-,,,oui,oui
+IT,5117,dze,-,,,,oui
+IT,5117,znaduje,-,,,,oui
+IT,5111,sztery,-,proszę i prosto ulica niska obok ospital na rogu proszę skręcić na prawo i proszę i prosto ulica słowa ciego a potem szoszowanie proszę i prosto ulica słowa ciego obok teatr obok szkole uniwersytecie proszę i prosto i na lewo sklep na rogu proszę skręcić na lewo i proszę i prosto ulica dobra numer cztery jest dom domu no del tre ty powiedziałaś del quattro allora szklep jest szklep,ulica dobra sztery proszę i prosto ulica niska obok oszpital na rou proszę skrencić na prawo i prosz proszę i prosto ulica słowaskiego a pote szyżowanie proszę i prosto ulica słowasjego obok teatre obok skole uniwersytecze proszę i prosto i na na lewo sklep sklep na rogu na roge na rogu proszę i skręcić na lewo proszę i prosto ulica dobra numer cztery est domu domu szklep est sklep,,oui
+IT,5111,oszpital,ospital,,,oui,oui
+IT,5111,rou,rogu,,,,oui
+IT,5111,skrencić,skręcić,,,,oui
+IT,5111,prosz,-,,,,
+IT,5111,słowaskiego,słowa ciego,,,,oui
+IT,5111,pote,potem,,,,
+IT,5111,szyżowanie,szoszowanie,,,oui,oui
+IT,5111,słowasjego,słowa ciego,,,,oui
+IT,5111,teatre,teatr,,,oui,
+IT,5111,skole,szkole,,,oui,oui
+IT,5111,uniwersytecze,uniwersytecie,,,oui,oui
+IT,5111,roge,-,,,,
+IT,5111,szklep,szklep,,,,oui
+IT,5106,ulicon,-,jest to obok szkoły obok teatru skręcić w lewo jest do sklepu na ulicę dobrej dom znajduje się na lewo,proszę iś prosto ulicon niszkon az do spitalu do spitalu az do spitalu skręcić wy prawo ulica julusza słowackiego obok restauracja obok szyżowannem proszę iść prosto obok skoly obok teatr skręczić wy lewo ez do sklepu ul na ulica dobra dom jest znaduje szie na lewe,oui,oui
+IT,5106,niszkon,-,,,,oui
+IT,5106,spitalu,-,,,oui,oui
+IT,5106,spitalu,-,,,oui,oui
+IT,5106,spitalu,-,,,oui,oui
+IT,5106,julusza,-,,,,oui
+IT,5106,szyżowannem,-,,,,
+IT,5106,skoly,szkoły,,,,oui
+IT,5106,skręczić,skręcić,,,,oui
+IT,5106,znaduje,znajduje,,,,oui
+IT,5106,szie,się,,,,oui
+IT,5107,ulicon,ulicę,tak proszę iść prosto na ulicę niską na rogu aż do szpitala za szpitalem skręcić w prawo i przekroczyć iść prosto na ulicę słowackiego obok restauracji obok biblioteki obok szkoły obok teatru i obok sklepu aż do sklepu skręcić w lewo na ulicę dobrej i na lewo znajdziesz dom 4,proszę iś prosto na ulicon niskon na rogu a aż do spitalem za oszpitalem skrenczić wy prawo i prokaczić iś prosto na ulicon słowackiego obok restauracja obok biblioteke obok skoły obok teatre i obok sklep aż do sklep aż do sklepe skrenczić w lewo na ulicon dobron i na lewo znaduj szie dom sztery,oui,oui
+IT,5107,niskon,niską,,,,oui
+IT,5107,spitalem,szpitala,,,,oui
+IT,5107,oszpitalem,szpitalem,,,,oui
+IT,5107,skrenczić,skręcić,,,,oui
+IT,5107,prokaczić,przekroczyć,,,,
+IT,5107,ulicon,ulicę,,,oui,oui
+IT,5107,biblioteke,biblioteki,,,oui,
+IT,5107,skoły,szkoły,,,,oui
+IT,5107,teatre,teatru,,,oui,
+IT,5107,sklepe,sklepu,,,oui,
+IT,5107,skrenczić,skręcić,,,,oui
+IT,5107,ulicon,ulicę,,,oui,oui
+IT,5107,dobron,dobrej,,,,oui
+IT,5107,znaduj,znajdziesz,,,,oui
+IT,5107,szie,-,,,,oui
+IT,5107,sztery,4,,,,oui
+IT,5113,prochon,po,tak proszę jechać po ulicę niżka do szpitala w szpitalu skręcisz na prawo w ulicę żuliuska słowackiego proszę jechać po szkleb do szklebu skręcisz na ulicę dobrej na lewo ulica dobrej 4 jest na lewo,tak proszę jedź prochon ulica niszka do szpitale wy szpitale skremcić na prawo w ulica żuliuska szlowatsjego wy proszę jedź prochon szklep do szklep skremcić na ulica dobra na lewo i ulica dobra sztere jest na pr na lewo,,oui
+IT,5113,niszka,niżka,,,oui,oui
+IT,5113,skremcić,skręcisz,,,,oui
+IT,5113,żuliuska,żuliuska,,,,oui
+IT,5113,szlowatsjego,słowackiego,,,,oui
+IT,5113,prochon,po,,,,oui
+IT,5113,szklep,szkleb,,,,oui
+IT,5113,szklep,szklebu,,,,oui
+IT,5113,skremcić,skręcisz,,,,oui
+IT,5113,sztere,4,,,,oui
+IT,5102,ulicon,-,przed księżowaniem proszę iść prosto też obok szkoły obok teatru aż do sklepu za sklepem proszę skręcić w lewo to jest ulica dobra proszę iść prosto ulicą na dobron i dom kowalski znajduje się na lewo,tak proszę iść prosto ulicon niskon za spitalem proszę skręcić w prawo to jest ulica juliusza słowackiego proszę iść prosto ulicon słowackiego obok restauracji przed krzyżowanie proszę iść prosto też obok szkoły obok teatru aż do sklepu za sklepiem proszę skręcić w lewo to jest ulica dobra proszę iść prosto ulicon dobron i dom kowal kowalski znajduje się na lewo,oui,oui
+IT,5102,niskon,-,,,,oui
+IT,5102,spitalem,-,,,,oui
+IT,5102,ulicon,-,,,oui,oui
+IT,5102,sklepiem,sklepem,,,,oui
+IT,5102,ulicon,ulicą,,,oui,oui
+IT,5102,dobron,dobron,,,,oui
+IT,5116,ulicon,-,do szpitalu na rogu skręcić w prawo i proszę iść prosto ulicą słowackiego do sklepu na rogu skręcić w lewo i dom kowalski znajduje się na lewo numer 4,proszę iść prosto ulicon niskon do szpitalu na rogu skręcić w prawo i proszę iść prosto ulicą słowacjego do sklep na rogu skręcić w lewo i dom kowalski znajduje się na lewo numer cztery,oui,oui
+IT,5116,niskon,-,,,,oui
+IT,5116,słowacjego,słowackiego,,,,oui
+IT,5115,spital,szpitala,tak proszę iść prosto ulicą niską do szpitala za szpitala proszę skręcić w prawo ulicę słowackiego i potem proszę prosto o bok restauracja i a potem o bok teatr i o bok szkoła i uniwersytet i proszę prosto do ulicy dobrej i a potem proszę skręcić w prawo ulica dobra i na lewo to jest dom kowalski i numer 4,tak proszę iść prosto ulica niska do spital za spitala proszę skręć uli w prawo ulica slowakiego i a pote proszę prosto obok restauracja i a pote obok obok teatr i obok skola i uniwersitet i proszę jets prosto do ulica dobra i a pote proszę skręć w prawo ulica dobra i na lewo to jest dom kowaski i numer czteri,oui,oui
+IT,5115,spitala,szpitala,,,oui,oui
+IT,5115,slowakiego,słowackiego,,,,oui
+IT,5115,pote,potem,,,,
+IT,5115,pote,potem,,,,
+IT,5115,skola,szkoła,,,oui,oui
+IT,5115,uniwersitet,uniwersytet,,,oui,oui
+IT,5115,jets,-,,,,
+IT,5115,pote,potem,,,,
+IT,5115,kowaski,kowalski,,,oui,oui
+IT,5115,czteri,4,,,,
+IT,5118,ulicon,ulicą,proszę iść prosto ulicą niską za szpitalu skręcić w prawo na ulicą juluszko-słowackiego obok restauracja obok szkoły obok teatru za szklepem po prostu skręcić w lewo ulica dobrej 4 znajduje się na lewo,proszę iść prosto ulicon niskon za szpitalu skręcić w prawo na ulicon juliuszko słowackiego obok restauracja obok szkoły obok teatre za szklepe szkręcić w lewo ulicon dobron ulica dobra numer cztery znajduje się na lewo,oui,oui
+IT,5118,niskon,niską,,,,oui
+IT,5118,ulicon,ulicą,,,oui,oui
+IT,5118,juliuszko,juluszko-słowackiego,,,,oui
+IT,5118,teatre,teatru,,,oui,
+IT,5118,szklepe,szklepem,,,oui,oui
+IT,5118,szkręcić,skręcić,,,,oui
+IT,5118,ulicon,ulica,,,oui,oui
+IT,5118,dobron,dobrej,,,,oui
+NL,2103,ulicza,uliczka,jest dom kowalski uliczka dobrej cztery proszę iść po stronie ulicy niski za szpital po stronie ulicy skręca-brawo po stronie ulicy jskowalskiego po stronie ulicy obok restauracja teatr szkleb i za szkleb po stronie skręca-lewo ulicy dobrej i dom kowalskiego jest na lewej stronie nr 4,jest dom kowalski ulicza dobra cztery proszę iść prosto ulicza niska i za szpital proszę skręca brawo i proszę iść prosto ulicza julia juliaszka skowalskiego i proszę prosto prosto prosto obok restoracja teatr szklep i za szklep proszę skręca a lewo ulicza dobra i dom kowalski jest a lewo nume sztery,,oui
+NL,2103,ulicza,ulicy,,,,oui
+NL,2103,ulicza,ulicy,,,,oui
+NL,2103,juliaszka,-,,,,oui
+NL,2103,skowalskiego,jskowalskiego,,,,oui
+NL,2103,restoracja,restauracja,,,oui,oui
+NL,2103,szklep,szkleb,,,,oui
+NL,2103,szklep,szkleb,,,,oui
+NL,2103,ulicza,ulicy,,,,oui
+NL,2103,nume,nr,,,oui,oui
+NL,2103,sztery,4,,,,oui
+NL,2119,uliczia,-,dzięki za obserwacie dzięki za obserwacie dzięki za obserwacie dziękuję bardzo dziękuję,uliczia dobre sztery proszę i prosto a ulicza niska za hospital proszę proszę skręcić na prawo ulicza julusza slo szlowakiego proszę proszę i prosto obok szkola obok juniwe uniweszitet obok sklep za sklep proszę skręcić na le w lewo a ulicza dobra ulicza dobra proszę skręcić w lewo tak,,oui
+NL,2119,sztery,-,,,,oui
+NL,2119,ulicza,-,,,,oui
+NL,2119,hospital,-,,,oui,oui
+NL,2119,ulicza,-,,,,oui
+NL,2119,julusza,-,,,,oui
+NL,2119,szlowakiego,-,,,,oui
+NL,2119,szkola,-,,,oui,oui
+NL,2119,juniwe,-,,,,
+NL,2119,uniweszitet,-,,,oui,oui
+NL,2119,ulicza,-,,,,oui
+NL,2119,ulicza,-,,,,oui
+NL,2115,spital,szpitalu,ulica dobrej proszę iść prosto z szpitalu proszę jechać na prawo ulica słowackiego proszę iść prosto za sklep proszę skręcić na lewo na ulicę dobrej,ulica dobra proszę iść prosto za spital proszę jegać na prawo a ulica julicza slowaczkiego proszę iść prosto za sklep proszę skręciak na lewo za ulica dobra,oui,oui
+NL,2115,jegać,jechać,,,,oui
+NL,2115,julicza,-,,,,oui
+NL,2115,slowaczkiego,słowackiego,,,,oui
+NL,2115,skręciak,skręcić,,,,oui
+NL,2111,restaracja,restauracja,proszę iść prosto za szpitalem proszę skręcić w prawo proszę iść prosto prosto obok restauracja obok szkoły proszę iść prosto za sklepem proszę skręcić w lewo ulica dobra 4 jest na lewo,proszę iś prosto za szpitalem proszę skręcić w prawo proszę iść prosto prosto ob obok restaracja obok szkola proszę iść prosto za sklepem proszę skręcić w lewo ulica dobra ctery jest na lewo,oui,oui
+NL,2111,szkola,szkoły,,,oui,oui
+NL,2111,ctery,4,,,,oui
+NL,2109,szklep,szkoły,proszę iść prosto ulica niska za szpital skręcić w prawo ulica julisza słowackiego proszę iść prosto obok szkoły obok szkoły obok teatru obok szkoły za szkołę proszę skręcić w lewo w lewo ulica dobra i tam jest dom kowalski na lewo,proszę iś prosto ulica niska za szpital skr skręcić w prawo ulica juliusza słowackiego proszę iść prosto obok szkoła obok uniwersytet obok teatr obok szklep za szklep proszę skręcić w lewo w lewo ulica dobra i tam jestem dom kowalski na lewo,,oui
+NL,2109,szklep,szkoły,,,,oui
+NL,2113,ulicja,ulicę,stacja prosi o ulicę niską sprawiedliwość prosi o skręcenie prawej ulicy o ulicy słowackiej proszę o skręcenie prawej ulicy proszę o ulicę szkoły uniwersytetu teatru sztabu proszę o skręcenie prawej ulicy o ulicy dobrej proszę o skręcenie prawej ulicy dobrej ja lewę dom kowalski,starsza proszę prosto ulicja niska ta szpital proszę skręcić prawo ulica dżulius dżuliusa szło szłowackiego proszę prosto obok szkola obok uniwersytet obok teatr obok szklep tza szklep proszę skręcić w lewo w lewo a uliczia dobra proszę prosto a lewo es dom kowalski,oui,oui
+NL,2113,dżulius,-,,,oui,oui
+NL,2113,dżuliusa,-,,,,
+NL,2113,szłowackiego,słowackiej,,,,oui
+NL,2113,szkola,szkoły,,,oui,oui
+NL,2113,szklep,sztabu,,,,oui
+NL,2113,tza,-,,,,oui
+NL,2113,szklep,-,,,,oui
+NL,2113,uliczia,ulicy,,,,oui
+NL,2120,ulicza,ulica,proszę jechać prosto ulica nyska proszę jechać prosto obok szpitalu proszę skręcić w prawo ulica nazywa się juliusza słowackiego proszę jechać prosto proszę jechać prosto obok restauracji obok biblioteki teatru obok sklepu za sklepem proszę skręcić w lewo ulica nazywa się ulica dobra proszę jechać prosto proszę jechać prosto prosto dom kowalski jest na lewo,proszę jechać prosto ulicza niska proszę jechać prosto obok szpitalu za szpitalu proszę skrędzić w prawo ulicza nazywa się juliusza słowaczkiego proszę jechać prosto prosto prosto prosto obok restoracja obok biblioteka teatr obok sklep za sklep za sklepem proszę skrędzić w lewo ulicza nazywa się ulicza dobra prosto dom kowalski jest na lewo,,oui
+NL,2120,skrędzić,skręcić,,,,oui
+NL,2120,ulicza,ulica,,,,oui
+NL,2120,słowaczkiego,słowackiego,,,,oui
+NL,2120,restoracja,restauracji,,,oui,oui
+NL,2120,skrędzić,skręcić,,,,oui
+NL,2120,ulicza,ulica,,,,oui
+NL,2120,ulicza,ulica,,,,oui
+NL,2105,staczja,stacji,do stacji proszę iść prosto obok szpital proszę skręcić w prawo ulica słowackiego proszę iść prosto obok restauracja obok szkoły i za szkleb proszę skręcić w lewo ulica dobra i dom ulica dobrej 4 jest na lewo,do staczja proszę iść prosto obok szpital proszę skręcić w prawo ulica słowackiego prosę proszę jiść prosto obok restoracja obok szkoła i za szklep proszę skręcić w lewo ulica dobra i dom ulica dobra cztery jest na lewo,oui,oui
+NL,2105,prosę,-,,,,oui
+NL,2105,jiść,iść,,,,oui
+NL,2105,restoracja,restauracja,,,oui,oui
+NL,2105,szklep,szkleb,,,,oui
+NL,2117,ulicza,ulicą,proszę iść prosto za ulicą niżka za ospital skręć na prawo na ulicę juliusza słowackiego proszę iść prosto obok restauracji obok teatru obok sklepu za sklep skręć na lewo na ulicę dobrej i ulicę dobrej 4 ulicę słowackiego na lewo,proszę iś prosto za ulicza niszka za ospital skręcza na prawo ulicza juliusza slowakiego proszę iś prosto obok restoracja obok teatr obok sklep za sklep skręcza na lewo ulicza dobra i ulicza dobra sztery es na lewo,,oui
+NL,2117,niszka,niżka,,,oui,oui
+NL,2117,ospital,ospital,,,oui,oui
+NL,2117,skręcza,skręć,,,,
+NL,2117,ulicza,ulicę,,,,oui
+NL,2117,slowakiego,słowackiego,,,,oui
+NL,2117,restoracja,restauracji,,,oui,oui
+NL,2117,skręcza,skręć,,,,
+NL,2117,ulicza,ulicę,,,,oui
+NL,2117,ulicza,ulicę,,,,oui
+NL,2117,sztery,4,,,,oui
+NL,2114,ulicia,ulica,ulica dobrej 4 proszę iść prosto a ulica niska za szpital proszę kręcić na prawo na ulicę juliusza słowackiego proszę iść prosto prosto prosto za sklep proszę kręcić w lewo na ulicę dobrej 4 na lewo,ulicia dobra stery iśt proszę iśt prosto a ulicia niska tza spital proszę kręcić wna prawo a ulicia julusza słowackiego proszę iść prosto proszę iść prosto prosto prosto prosto za sklep proszę kręcić na w lewo a ulicza dobra ulicia dobre numer sztery na lewo,,oui
+NL,2114,iśt,-,,,,oui
+NL,2114,iśt,iść,,,,oui
+NL,2114,ulicia,ulica,,,,oui
+NL,2114,tza,za,,,,oui
+NL,2114,spital,szpital,,,oui,oui
+NL,2114,wna,na,,,,
+NL,2114,ulicia,ulicę,,,,oui
+NL,2114,julusza,juliusza,,,,oui
+NL,2114,ulicza,-,,,,oui
+NL,2114,ulicia,ulicę,,,,oui
+NL,2114,sztery,4,,,,oui
+NL,2104,ulicza,ulica,ulica dobra 4 jest obok szklapu obok parku i za teatrem a ja jestem tu i idziemy do ulicy dobrej proszę iść prosto i skręcić w prawo ulica dobra 4 proszę słowackiego proszę iść prosto prosto i za sklep proszę iść w lewo a ulica dobra i dom jest na lewo,ulicza dobra stery jes obok szklepu obok banku i za teatr proszę iść prosto i szkręcić w prawo a ulica juliusza słowackiego proszę iść prosto prosto i za sklep proszę iść w lewo a ulica dobra i dom jest na lewo,,oui
+NL,2104,jes,jest,,,,oui
+NL,2104,szklepu,szklapu,,,,oui
+NL,2104,szkręcić,skręcić,,,,oui
+NL,2102,staczja,stacja,ta stacja proszę jedź prosto ulica niska za z hospitalu proszę kręcić w prawo ulica słowackiego i proszę jedź prosto proszę jedź prosto i za sklepem proszę kręcić w lewo ulica dobrej i na lewo dom kowalski jest nr 4,do staczja proszę jedz prosto ulica niska za zospitalu proszę kręcić w prawo ulica słowackiego proszę jedz prosto proszę jedz prosto i za szklepe proszę kręcić w lewo ulica dobra i na na lewo dom kowalski ject numer sztery,oui,oui
+NL,2102,zospitalu,hospitalu,,,oui,oui
+NL,2102,szklepe,sklepem,,,oui,oui
+NL,2102,ject,jest,,,,oui
+NL,2102,sztery,4,,,,oui
+NL,2106,ulicza,ulicę,babcia anna proszę iść prosto na ulicę niska iść na szpital skręć się prosto skręć się prosto skręć się prosto skręć się w prawo a ulicę julijewska słowackiego i proszę iść prosto prosto prosto obok restaurancza obok teatru obok szkoły obok uniwersytetu a ulicę dobrej iść na sklep a ulicę dobrej skręć się w lewo w lewo tak i z nasz sklep tak a w lewo jest zielony dom numer 4,babcia Anna proszę iść prosto a ulicza niska iść na na szpital szkręcza pr prosto ne prawo szkręczać w prawo a ulicza julieszka słowackiego i proszę iść prosto prosto prosto obok restoranczja obok teatr obok szkola obok uniwerszitet a ulicza dobra iść na szklep szkręcza w lewo tak i zna sklep a w lewo jest zielon zielony dom numer sztery,,oui
+NL,2106,szkręcza,skręć się,,,,oui
+NL,2106,szkręczać,skręć się,,,,oui
+NL,2106,ulicza,ulicę,,,,oui
+NL,2106,julieszka,julijewska,,,,oui
+NL,2106,restoranczja,restaurancza,,,oui,oui
+NL,2106,szkola,szkoły,,,oui,oui
+NL,2106,uniwerszitet,uniwersytetu,,,oui,oui
+NL,2106,ulicza,ulicę,,,,oui
+NL,2106,szklep,sklep,,,,oui
+NL,2106,szkręcza,skręć się,,,,oui
+NL,2106,zielon,-,,,oui,
+NL,2106,sztery,4,,,,oui
+NL,2118,sztery,4,ulicy dobrej 4 jestem obok sklepu i obok parku proszę iść prosto na ulicę nińska za szpital proszę skręcić na prawo w ulicy juliu za słowackiego proszę iść prosto obok restauracja i obok szkoły obok uniwersytetu i za szklep proszę skręcić w lewo na ulicę dobrej i obok za szklep jest ulica dobrej nr 2 nr 4 po lewej,ulice dobry sztery jestem obok szklep i obok park proszę iśt prosto ulica niska tza szpital proszę skręcić na prawo w ulica juliusz juliusza slowackiego proszę iść prosto obok restoraczja i obok szkoła obok uniwersytet i za szklep proszę szkręcić w lewo ulica dro dobra i obok za szklep jest ulica dobra numero sztery po lewe,,oui
+NL,2118,szklep,sklepu,,,,oui
+NL,2118,iśt,iść,,,,oui
+NL,2118,tza,za,,,,oui
+NL,2118,slowackiego,słowackiego,,,,oui
+NL,2118,restoraczja,restauracja,,,oui,oui
+NL,2118,szklep,szklep,,,,oui
+NL,2118,szkręcić,skręcić,,,,oui
+NL,2118,dro,-,,,,
+NL,2118,szklep,szklep,,,,oui
+NL,2118,numero,nr,,,,oui
+NL,2118,sztery,4,,,,oui
+NL,2116,spitalem,szpitalem,proszę iść prosto ulica niska za szpitalem skręcić w prawo proszę iść prosto obok teatru obok szkoły obok uniwersytetu i za sklepem skręć w lewo ulica dobra i ulica dobra jest dobra 4 jest na lewo,tak proszę idź prosto ulica niska za spitalem skręcić w prawo proszę idź prosto obok teatr obok skola obok uniwersitet i za sklepem skręć w lewo ulica dobra i ulica dobra jest dobra sztery jest na lewo,,oui
+NL,2116,skola,szkoły,,,oui,oui
+NL,2116,uniwersitet,uniwersytetu,,,oui,oui
+NL,2116,sztery,4,,,,oui
+NL,2107,ulicza,ulica,proszę prosto ulica niska proszę proszę skręcić na prawo do szpitala na prawo do no dobrze proszę prosto i ludzie dzielą się słowem niemieckim proszę prosto obok szkoły obok uniwersytetu i ten sklep proszę proszę skręcić na lewo i proszę prosto i na lewo jest ulicy dobrej 4,proszę proszą proszę prosto ulicza niska i proszę skręcić na prewo za szpitalem proszę pres prosto i luczi juliżasi slowacziego proszę prosto obok skola obok juniwersitet i sza szklep proszę skrędzić na wo na dole na lewo i proszę prosto i na lewo jest julicza dobra czjery,,oui
+NL,2107,prewo,prawo,,,,oui
+NL,2107,pres,proszę,,,,
+NL,2107,luczi,ludzie,,,oui,oui
+NL,2107,juliżasi,-,,,oui,oui
+NL,2107,slowacziego,-,,,,oui
+NL,2107,skola,szkoły,,,oui,oui
+NL,2107,juniwersitet,uniwersytetu,,,oui,oui
+NL,2107,szklep,sklep,,,,oui
+NL,2107,skrędzić,skręcić,,,,oui
+NL,2107,julicza,ulicy,,,,oui
+NL,2107,czjery,4,,,,oui
+NL,2108,restoracja,restauracja,proszę iść prosto a ulica niska za szpitalem proszę skręcić w prawo a ulica juliusza słowackiego proszę iść prosto prosto obok restauracja obok teatru obok szkoły za sklepem proszę skręcić w lewo ta jest ulica dobra a nr 4 jest na lewo,proszę iść prosto a ulica niska za szpitalem proszę skręcić w prawo a ulica juliu juliusza słowackiego proszę iść prosto prosto obok restoracja obok teatru obok skołe za sklepem proszę skręcić w lewo ta jest ulica dobra a numer sztery jest a lewo na lewo,oui,oui
+NL,2108,skołe,szkoły,,,oui,oui
+NL,2108,sztery,4,,,,oui
+NL,2101,ulicza,ulicę,proszę iść po prostu ulicę niska za hospitałem skręcić po prostu w prawo ulicę słowaksiego proszę iść po prostu po prostu po prostu po prostu obok sklepu skręcić w lewo obok park obok sklep ulica dobra nr 4,proszę iść prosto ulicza niska za hospital kręciks prosto na na w prewo w prawo uliczia słowa słowaksiego proszę iść prosto prosto prosto prosto obok szklep szkręcić w lewo obok park obok szklep uliczia dobra numer cztery,,oui
+NL,2101,hospital,hospitałem,,,oui,oui
+NL,2101,kręciks,skręcić,,,,oui
+NL,2101,prewo,-,,,,oui
+NL,2101,uliczia,ulicę,,,,oui
+NL,2101,słowaksiego,słowaksiego,,,,oui
+NL,2101,szklep,sklepu,,,,oui
+NL,2101,szkręcić,skręcić,,,,oui
+NL,2101,szklep,sklep,,,,oui
+NL,2101,uliczia,ulica,,,,oui
+UK,3102,ulicja,ulicia,proszę iż proste ulicia niska obok zapital strategie prawo ulicia juliane z słow-wachsliga obok zapital obok restaurantaż obok w szkole obok teatr obok sklep strangik lewo ulicia dobla slewi,proszę iś proste ulicja niska obok zapital stradżik prawo ulicja żulianizi slowłasigo obok zapital obok restrantaże obok zskola obok teatre obak sklep strędżik lewo ulicja dobra,oui,oui
+UK,3102,zapital,zapital,,,oui,oui
+UK,3102,stradżik,strategie,,,,
+UK,3102,ulicja,ulicia,,,oui,oui
+UK,3102,żulianizi,juliane,,,oui,oui
+UK,3102,slowłasigo,słow-wachsliga,,,,oui
+UK,3102,zapital,zapital,,,oui,oui
+UK,3102,restrantaże,restaurantaż,,,oui,oui
+UK,3102,zskola,szkole,,,oui,oui
+UK,3102,teatre,teatr,,,oui,
+UK,3102,obak,obok,,,,oui
+UK,3102,strędżik,strangik,,,,oui
+UK,3102,ulicja,ulicia,,,oui,oui
+UK,3115,iszte,jeszcze,proszę im jeszcze proszto i za szpital proszę skręcić w prawo ulicę słowackiego proszę iść prosto obok restauracji i obok teatry i za sklep o no o o sorry i za sklep proszę skręcić w lewo ulicę dobrą i za sklep proszę skręcić w lewo,proszę iszte proszto i za szpital proszę skręcić w prawo w ulicę słowackiego proszę iśte proszto obok restaracji i obok teatre i za sklep za szklepem proszę skręcić w lewo w olicę dobra i i zna znaduj zię w lewo,,oui
+UK,3115,proszto,proszto,,,,oui
+UK,3115,iśte,iść,,,,oui
+UK,3115,proszto,prosto,,,,oui
+UK,3115,restaracji,restauracji,,,,oui
+UK,3115,teatre,teatry,,,oui,
+UK,3115,szklepem,sklep,,,,oui
+UK,3115,olicę,ulicę,,,,oui
+UK,3115,znaduj,-,,,,oui
+UK,3115,zię,-,,,,oui
+UK,3119,proszto,prosto,proszę iść prosto aż pytał skręcić prawo proszę iść prosto a słowackiego i proszę iść prosto a sklep skręcić świtło,proszę iść proszto a szpital skręcić prawo i proszę proszto a słowackiego i proszę proszto i a sklep skręcić lewo,,oui
+UK,3119,proszto,prosto,,,,oui
+UK,3119,proszto,prosto,,,,oui
+UK,3112,prosteu,-,dzień dobry jak masz na imię ma na imię helen dziękuję first part jesteśmy na stacji kolejowej w krakowie ja jestem turystą z warsztatem jesteśmy na stacji kolejowej w krakowie ja jestem turystą z warszawy ty mieszkasz w krakowie ja pytam ciebie o informację przepraszam jak dojść na ulicę do brącztery nie się nie zauważy przepraszam jak dojść na ulicę do brącztery ja jestem turystą z warsztatem ty mieszkasz w krakowie ja jestem turystą z warsztatem ty mieszkasz w brącztery ja jestem turystą z warsztatem ty mieszkasz w brącztery nie zauważy dziękuję bardzo,proszę iś prosteu ulica niska za spital skręcić w praweu w ulicę juliske slowakiego proszę iś prosteu obok restracji obok tieat obok szkola za szklepe skręcić leweu naguje się na leweu,,oui
+UK,3112,spital,-,,,oui,oui
+UK,3112,praweu,-,,,,oui
+UK,3112,juliske,-,,,oui,oui
+UK,3112,slowakiego,-,,,,oui
+UK,3112,prosteu,-,,,,oui
+UK,3112,restracji,-,,,,oui
+UK,3112,tieat,-,,,oui,oui
+UK,3112,szkola,-,,,oui,oui
+UK,3112,szklepe,-,,,oui,oui
+UK,3112,leweu,-,,,,
+UK,3112,naguje,-,,,,oui
+UK,3112,leweu,-,,,,
+UK,3109,ulisa,ulicy,iść prosto ulicy niska obok spytan skręci się z powrotem ulicy dula ulicy swalckiego obok restauracji obok goła obok teatry obok sklep skręci się z ulicy dobrej a dom kawalski nr 6,idź prosto ulisa niska obok spital skręcić prawo ulisa dżola dżuliska słowackiego obok restracji obok skoła obok teaczre obok sklep skręcinć ulisze dobre dom kowalski numeu stery,,oui
+UK,3109,spital,spytan,,,oui,oui
+UK,3109,ulisa,ulicy,,,,oui
+UK,3109,dżola,dula,,,,
+UK,3109,dżuliska,ulicy,,,,
+UK,3109,restracji,restauracji,,,,oui
+UK,3109,skoła,goła,,,oui,oui
+UK,3109,teaczre,teatry,,,oui,oui
+UK,3109,skręcinć,skręci,,,,oui
+UK,3109,ulisze,ulicy,,,oui,oui
+UK,3109,numeu,nr,,,,oui
+UK,3114,juliuza,-,olicy są słowackiego proszę iść prosto obok restauracji obok szkola obok teatra i żar szklebo proszę skręcić olicę dobre proszę iść prosto dom znajdowsze w level,proszę iś prosto ulica niska za szpital proszę skręcić w prawo ulice juliuza slowackiego proszę iśt prosto obok restraca obok szkola obok teatre i za szklepe proszę skręcić ulisę dobra proszę iś prosto dom znajduje się w lewo,,oui
+UK,3114,slowackiego,słowackiego,,,,oui
+UK,3114,iśt,iść,,,,oui
+UK,3114,restraca,restauracji,,,oui,oui
+UK,3114,szkola,szkola,,,oui,oui
+UK,3114,teatre,teatra,,,oui,
+UK,3114,szklepe,szklebo,,,oui,oui
+UK,3114,ulisę,olicę,,,,oui
+UK,3117,prastou,presto,proszę iść presto ulicze niska i zbytal,proszę iść prastou ulicza niska i a za spital lewo skręczen lewen lewou ulicza dżulienca i iś pros iśt prosteu ulicza stowancziengeu a ulicz dobra skrenczen le leweu,,oui
+UK,3117,ulicza,ulicze,,,,oui
+UK,3117,spital,zbytal,,,oui,oui
+UK,3117,skręczen,-,,,,oui
+UK,3117,lewen,-,,,,
+UK,3117,lewou,-,,,,
+UK,3117,ulicza,-,,,,oui
+UK,3117,dżulienca,-,,,,
+UK,3117,iśt,-,,,,oui
+UK,3117,prosteu,-,,,,oui
+UK,3117,ulicza,-,,,,oui
+UK,3117,stowancziengeu,-,,,,oui
+UK,3117,ulicz,-,,,oui,oui
+UK,3117,skrenczen,-,,,,oui
+UK,3117,leweu,-,,,,
+UK,3108,uliszia,ulicy,proszę iść prosto z ulicy niska za szpitalem skręcić prawo w ulicy słowakiego iść prosto obok restauracji szkola uniwersytet za szklepem skręcić lewo w lewo w ulicie dorba don makowalski w lewo,proszę idź prosto z uliszia niska za szpitalem skręczić prawo skręcić w prawo w ulisję ulica słowakiego iść prosto obok restracje szkole uniwersytet za szklepem skrędzić lewo w lewo w ulisja dorba doma kowalski w lewo,oui,oui
+UK,3108,skręczić,skręcić,,,,oui
+UK,3108,ulisję,ulicy,,,,oui
+UK,3108,słowakiego,słowakiego,,,,oui
+UK,3108,restracje,restauracji,,,oui,oui
+UK,3108,szklepem,szklepem,,,,oui
+UK,3108,skrędzić,skręcić,,,,oui
+UK,3108,ulisja,ulicie,,,oui,oui
+UK,3108,dorba,dorba,,,oui,oui
+UK,3108,doma,don,,,oui,
+UK,3107,prostro,prostro,proszę iść prostro w ulicze misko obok szpital za szpitalem proszę skręcić wyprawo w ulicze luliusa słowackiego proszę iść prostro obok restauracja obok szkoła obok teatr za szklepem proszę skręcić w lewo w ulicze dobrej numer cztery za naszewę na lewo,proszę iś prostro w ulica nisko obok obok szpital za szpitalem proszę skręcić w prawo w ulica juliusa słowackiego iś proszę iś prostro obok restoracja obok skoło obok teatre i za szklepem proszę skręcić w lewo w ulica dobra numer czery żanaszewe ne naszewa żę na lewo,,oui
+UK,3107,juliusa,luliusa,,,,oui
+UK,3107,prostro,prostro,,,,oui
+UK,3107,restoracja,restauracja,,,oui,oui
+UK,3107,skoło,szkoła,,,,
+UK,3107,teatre,teatr,,,oui,
+UK,3107,szklepem,szklepem,,,,oui
+UK,3107,czery,cztery,,,,oui
+UK,3107,żanaszewe,-,,,,
+UK,3107,naszewa,naszewę,,,,
+UK,3107,żę,-,,,,
+UK,3116,proszto,proś do,proszę iść proś do ulicy niska za szpitalem proszę skręcić w prawo proszę iść proś do obok restauracja obok teater za szklepem proszę skręcić w lewo bo najduje się stery ulicy dobra na lewo,proszę idź proszto alica niska za szpitalem proszę szkręcić w prawo proszę idź proszto obok restoracja obok teatre za szklepem proszę szkręcić w lewo znajduje się cztery ulica dobra na lewo,,oui
+UK,3116,alica,ulicy,,,oui,oui
+UK,3116,szkręcić,skręcić,,,,oui
+UK,3116,proszto,proś do,,,,oui
+UK,3116,restoracja,restauracja,,,oui,oui
+UK,3116,teatre,teater,,,oui,
+UK,3116,szklepem,szklepem,,,,oui
+UK,3116,szkręcić,skręcić,,,,oui
+UK,3113,zo,to,proszę proszę iść powsta ulicjaniska to specjal proszę skaczyć prawo iść po prostu ulicja ulicja w słowach jego obok muzeum obok reserwacji obok szkoła teatr proszę skręcić proszę skręcić ulicja do ulicy dobrej 4 tom kowalski,proszę proszę iść prosto ulica niska zo zo spital proszę skaczie w prawo iś prosto ulicja ulisja słowakiego obok muzeum obok restauracji obok szkoła tieatr poszę skręcie proszę skręcie w lewo ulicja dobra najduje się na lewo dom kowalski zielony dom,,oui
+UK,3113,zo,-,,,,oui
+UK,3113,spital,specjal,,,oui,oui
+UK,3113,skaczie,skaczyć,,,,
+UK,3113,ulicja,ulicja,,,oui,oui
+UK,3113,ulisja,ulicja,,,oui,oui
+UK,3113,słowakiego,słowach jego,,,,oui
+UK,3113,tieatr,teatr,,,oui,oui
+UK,3113,poszę,proszę,,,,oui
+UK,3113,ulicja,ulicja,,,oui,oui
+UK,3113,najduje,-,,,,oui
+GE,4109,skęczać,skęszacz,proszę i czy prosto i prosto ulica niska i potem skęszacz prawu za hotelu ulica na sebaszej ulica juliusze słowackiego i prosto prosto prosto obok restauracji szkole uniwersytet i sklepu i salsklepu skręszacz lewo ulica dobra i obok sklepu i park jest dom,proszę idź prostu i prostu ulica niska i potem skęczać prawo za hotelu ulica nazywa się jul ulica julisze juliusze slowackiego i prostu prostu prostu obok restoracja skole uniwersitet i sklepu za sklepu skręczać lewo ulica dobra i obok sklepu i park jest dom,,oui
+GE,4109,julisze,juliusze,,,oui,oui
+GE,4109,slowackiego,słowackiego,,,,oui
+GE,4109,restoracja,restauracji,,,oui,oui
+GE,4109,skole,szkole,,,oui,oui
+GE,4109,uniwersitet,uniwersytet,,,oui,oui
+GE,4109,skręczać,skręszacz,,,,oui
+GE,4112,ulicza,ulicza,na ulicza stede i idzie na ulicza niska za spitalu i skredensza a prawo nazywasz się na ulicza julusza slovatiego ic prosto prosto obok skola obok uniwersyteczna obok teatry skręcza na lewo za ulica dobra i stede a lewo,na ulicza stery idź na ulica niska za spitalu i skrencza a prawo nazywa sien ta ulica julusza slowakiego idź prosto prosto obok skola obok uniwersitecia obok teatre skrencza na lewo za ulica dobra i ulica dobra stery a lewo,,oui
+GE,4112,spitalu,spitalu,,,oui,oui
+GE,4112,skrencza,skredensza,,,,
+GE,4112,sien,się,,,,oui
+GE,4112,julusza,julusza,,,,oui
+GE,4112,slowakiego,slovatiego,,,,oui
+GE,4112,skola,skola,,,oui,oui
+GE,4112,uniwersitecia,uniwersyteczna,,,oui,oui
+GE,4112,teatre,teatry,,,oui,
+GE,4112,skrencza,skręcza,,,,
+GE,4113,sztery,cztery,tak ulicza dobra cztery jest obok parku i obok sklep proszę iść prosto i za szpitalem skręcić naprawo iść prosto iść przeżywania prosto i obok szkola i uniwersytet i za sklepem skręcić na lewu na ulicza dobra i ulicza dobra cztery jest na lewu,tak ulica dobra sztery jest obuk parku i obok sklep proszę idź prosto i za szpitalem skręc skręcić na prawo i idź prosto i szyżowanie prosto idź prostu prosto i obok szkula i uniwezitet i za sklepem skręcić na lewo na ulicza dobra i ulicza dobra sztery jest na lewo,,oui
+GE,4113,obuk,obok,,,,oui
+GE,4113,skręc,-,,,,oui
+GE,4113,szyżowanie,przeżywania,,,oui,oui
+GE,4113,szkula,szkola,,,oui,oui
+GE,4113,uniwezitet,uniwersytet,,,oui,oui
+GE,4113,ulicza,ulicza,,,,oui
+GE,4113,ulicza,ulicza,,,,oui
+GE,4113,sztery,cztery,,,,oui
+GE,4120,prosztę,proszę,proszę idź prosto ulicza niska za za spital proszę idź sterecz a prawo ulicza juliska słowajeku proszę idź prosto i za sklep proszę idź sterecz a lewo ulicza dobra i a lewo jest dom numea stere,prosztę idź prosto ulicza niska za za spitae proszę idź steryć a prawo ulicza juliska slowajego slowakiego proszę idź prosto prosto prosto i za sklep proszę idź styryć a lewo ulicza dobra i a lewo jest dom nume sztery,,oui
+GE,4120,ulicza,ulicza,,,,oui
+GE,4120,spitae,spital,,,oui,oui
+GE,4120,steryć,sterecz,,,,
+GE,4120,ulicza,ulicza,,,,oui
+GE,4120,juliska,juliska,,,oui,oui
+GE,4120,slowajego,słowajeku,,,,oui
+GE,4120,slowakiego,-,,,,oui
+GE,4120,styryć,sterecz,,,,oui
+GE,4120,ulicza,ulicza,,,,oui
+GE,4120,nume,numea,,,oui,oui
+GE,4120,sztery,stere,,,,oui
+GE,4119,nazewa,nazeważe,proszę iść prosto ulica nazeważe ulica niska zna spitalem skręczać na brawo i ulica nazeważe ulica julijska słowakiego tam ulica iść proszę i proszę zna restauracja zna czeczołanie i zna obok biblioteka i skole i uniwersytety zna sklepu skręcić na lewo ulica nazeważe ulica dobra iść prosto i na lewo iść dom kowalska ulica dobra czery,stasza okej proszę iść prosto ulica nazewa się ulica niska zna spitalem skręczać na prawo i ulica nazywa się ulica juliszka slowi slowakiego tam ulica iść proszę i proszę sna restauracja sna czeczełanie i sna biblio obok biblioteka i skole i uniwersitete i sna sklepu skręcić na lewo ulica nazywa się ulica dobra i idź prosto i na lewo jest dom kowalska ulica dobra cziery,,oui
+GE,4119,spitalem,spitalem,,,,oui
+GE,4119,skręczać,skręczać,,,,oui
+GE,4119,juliszka,julijska,,,oui,oui
+GE,4119,slowi,-,,,,
+GE,4119,slowakiego,slowakiego,,,,oui
+GE,4119,sna,na,,,,
+GE,4119,sna,zna,,,,
+GE,4119,czeczełanie,czeczołanie,,,,
+GE,4119,sna,zna,,,,
+GE,4119,skole,skole,,,oui,oui
+GE,4119,uniwersitete,uniwersytety,,,oui,oui
+GE,4119,sna,zna,,,,
+GE,4119,cziery,czery,,,,oui
+GE,4117,ulicon,ulicę,proszę iść prosto ulicę niską za spitalem skręcić na prawo iść prosto i prosto i prosto za szeżowanie i obok sklepu i za sklepem skręcić na lewo i to jest na lewo dom rodziny kowalewskiej na ulica dobra nr 4,proszę idź prosto ulicon niskon za spitalem skręcić na prawo idź prosto i prosto i prosto za szyżowanie i obok skoly i obo obok sklepu i za sklepem skręcić na lewo i to jes na lewo dom rodziny kowalski na ulica dobra nume sztery,oui,oui
+GE,4117,niskon,niską,,,,oui
+GE,4117,spitalem,spitalem,,,,oui
+GE,4117,szyżowanie,szeżowanie,,,oui,oui
+GE,4117,skoly,-,,,,oui
+GE,4117,obo,-,,,,oui
+GE,4117,jes,jest,,,,oui
+GE,4117,nume,nr,,,oui,oui
+GE,4117,sztery,4,,,,oui
+GE,4103,skręczyć,skręczać,proszę iść prosto na ulicę niska i za szpitalem proszę skręczać prawo nazywasz je ulica jujusza słowackiego i proszę iść prosto obok restauracji obok teatru obok uniwersytetu i za sklepem proszę iść proszę skręczać w lewu nazywasz je ulica dobrej i między parku i sklepem jest ulica dobrej numa stery na lewu,proszę idź prosto na ulicy niskie i za szpitalem proszę skręczyć w prawo nazywa się ulica juliusza slowackiego proszę idź prosto obok restaracja obok teatu obok uniwesytietu i za sklepem proszę idź proszę skręczać w lewo nazywa się ulica dobra między parku i sklepu jest ulica dobra numa stery na lewo,,oui
+GE,4103,slowackiego,słowackiego,,,,oui
+GE,4103,restaracja,restauracji,,,oui,oui
+GE,4103,teatu,teatru,,,,oui
+GE,4103,uniwesytietu,uniwersytetu,,,,oui
+GE,4103,skręczać,skręczać,,,,oui
+GE,4103,numa,numa,,,,oui
+GE,4106,ulicza,ulicza,gręcić na prawo po prostu ulicza nazywa się niska z hospitalem gręcić na prawo po prostu ulica nazywa się juliusza sława jego po prostu żyjeżdżowanie po prostu obiek uniwezy obiek teatry za sklepu gręcić na lewo ulica nazywa się dobra do mnie jest ulicza dobra stery jest za sklepu na lewo,kręcić na prawo prosto ulicza nazywa zię niska za hospitalem kręcić na prawo prosto ulica nazywa się juliusza sławagiego prosto rzeżowanie prosto obek uniwezite obek teatre za sklepu kręcić na lewo ulica nazywa zię dobra dom jest ulicza dobra stery jest za sklepu na lewo,,oui
+GE,4106,zię,się,,,,oui
+GE,4106,hospitalem,hospitalem,,,,oui
+GE,4106,sławagiego,sława jego,,,,oui
+GE,4106,rzeżowanie,żyjeżdżowanie,,,oui,oui
+GE,4106,obek,obiek,,,,oui
+GE,4106,uniwezite,uniwezy,,,oui,oui
+GE,4106,obek,obiek,,,,oui
+GE,4106,teatre,teatry,,,oui,
+GE,4106,zię,się,,,,oui
+GE,4106,ulicza,ulicza,,,,oui
+GE,4116,ste,stery,ulica dobrej stery ja wiem proszę iść prosto ulica nazywa się niska obok spitala za spitalu proszę iść skręczać na prawo ulica nazywa się juliusza słowackiego proszę iść prosto obok restauracje obok zgoły i obok teatrem obok sklepu i za sklepem proszę skręczać na lewo dom kowalski jest na lewo,ulica dobrej ste dobra stery ja wiem proszę idź prosto ulica nazywa się niska obok spitala za spitalu proszę skręczić na prawo ulica nawy nazywa się juliusza słowackiego proszę ic idź prosto obok restoracje obok skoły i obe obok teatrem obok sklepu i za sklepem proszę skręczać na lewo dom kowalski jest na lewo,,
+GE,4116,spitala,spitala,,,oui,oui
+GE,4116,spitalu,spitalu,,,oui,oui
+GE,4116,skręczić,skręczać,,,,oui
+GE,4116,restoracje,restauracje,,,oui,oui
+GE,4116,skoły,zgoły,,,,oui
+GE,4116,skręczać,skręczać,,,,oui
+GE,4114,ospi,-,dobrze proste idzie prosto za hospitalem chęczać prawo ulica nazywa się ulica juliustie słowakiego idzie prosto obok biblioteku skuł i teatru za sklepem skręczać blewo ulica nazywa się ulica dobra ulica dobra no mestere jest na lewu obok parku i obok sklepu,dobrze proszę idź prosto i za ospi za spitalem kręczacz pre prawo i ulica nazywa się ulica juliuse słowakiego i idź prosto prosto obok biblioteku i skul skul i teatru i za sklepu za sklepem skręczać w lewo ulica nazywa się ulica dobra i ulica dobra nume stery jest na lewo obok parku i obok sklepu,,
+GE,4114,spitalem,hospitalem,,,,oui
+GE,4114,kręczacz,chęczać,,,,
+GE,4114,juliuse,juliustie,,,oui,oui
+GE,4114,słowakiego,słowakiego,,,,oui
+GE,4114,biblioteku,biblioteku,,,oui,
+GE,4114,skręczać,skręczać,,,,oui
+GE,4114,nume,no,,,oui,oui
+GE,4110,szię,się,proszę iść prosto ulica nazywa się niska za szpital proszę skręczać w prawo proszę iść prosto ulica nazywa się juliusa słowackiego proszę iść prosto obok szkoła obok uniwersytet obok teatry za sklepu proszę skręczać w lewo proszę iść prosto ulica nazywa się dobra obok parku i obok sklepu jest dom ulica dobra cztery,proszę idź prostu ulica nazywa szię niska za szpital proszę skręczać w prewo w prawo proszę idź prosto ulica nazywa się juliusa słowackiego proszę idź prosto obok szkoła obok uniwersitet obok tieatre i za sklepu proszę skręczać w lewo i proszę idź prosto ulica nazywa się dobra i obok parku i obok sklepu jest jest dom ulica dobra cztery,,oui
+GE,4110,skręczać,skręczać,,,,oui
+GE,4110,prewo,-,,,,oui
+GE,4110,juliusa,juliusa,,,,oui
+GE,4110,uniwersitet,uniwersytet,,,oui,oui
+GE,4110,tieatre,teatry,,,oui,oui
+GE,4110,skręczać,skręczać,,,,oui
+GE,4122,spitalem,spitalem,proszę idź prosto ulica nazywa się ulicaniska i za spitalem proszę skręcić prosto prawo ulica nazywa się juliusz słowackiego iść prosto i prosto obok szpitalem obok restauracja obok uniwersytet i za sklep proszę skręcić w lewo ulica dobra i numer 4 jest na lewo,proszę idź prosto ulica nazywa się ulica niska i za spitalem proszę skręcić prosto w prawo ulica nazywa się uli juliusza slowackiego i idź prosto i prosto obok szpitalem obok restoracja obok uniwersitet i za sklepem proszę skręcić w lewo ulica dobra i numero cztery jest na lewo,,oui
+GE,4122,slowackiego,słowackiego,,,,oui
+GE,4122,restoracja,restauracja,,,oui,oui
+GE,4122,uniwersitet,uniwersytet,,,oui,oui
+GE,4122,numero,numer,,,,oui
+GE,4105,szpitaem,szpital,proszę prosto i za szpital skręczak naprewo a ulica na zawazcie juliuszcza słowakiego i prosz prosty obok restauracja obok biblioteka obok skole obok sklep a za sklep skręczak na lewo a ulica na zawazcie dobra i za sklep ulica na zawazcie dobra sterek a za dom jest na lewo,proszę proste prosta i za szpitaem skręczak na prewo ulica nazawa się juliusza slowakiego i prosz proste obok restoracja obok biblioteka obok skole obok sklep a za sklep skręczek na lewo ulica nazawa się dobra i za sklep ulica nazawa stę dobra sterek a zdom est na lewo,,oui
+GE,4105,skręczak,skręczak,,,,oui
+GE,4105,prewo,naprewo,,,,oui
+GE,4105,nazawa,na zawazcie,,,,oui
+GE,4105,slowakiego,słowakiego,,,,oui
+GE,4105,prosz,prosz,,,,
+GE,4105,restoracja,restauracja,,,oui,oui
+GE,4105,skole,skole,,,oui,oui
+GE,4105,skręczek,skręczak,,,,oui
+GE,4105,nazawa,na zawazcie,,,,oui
+GE,4105,nazawa,na zawazcie,,,,oui
+GE,4105,stę,-,,,,oui
+GE,4105,sterek,sterek,,,,
+GE,4105,zdom,za dom,,,,oui
+GE,4123,skręczać,skręczać,proszę iść prosto i za spitalu skręczać na prawo proszę iść prosto prosto prosto obok restorancja obok skola obok uniwersytet za sklepu proszę skręczać na lewo i dom jest na lewo obok sklepu i obok parku,okej idź proszę idź prosto i za szpitalu skręczać na prawo proszę idź prosto prosto prosto obok resorancja obok skola obok uniwerzitet za sklepu proszę skręczać na lewo i dom jest na lewo obok sklepu i obok parku,,oui
+GE,4123,resorancja,restorancja,,,oui,oui
+GE,4123,skola,skola,,,oui,oui
+GE,4123,uniwerzitet,uniwersytet,,,oui,oui
+GE,4123,skręczać,skręczać,,,,oui
+GE,4104,szpita,-,proszę ić po sło za szpitalu proszę skręcać prawo ulica nazywa się julicka słowackiego proszę ić po sło i po sło obec szkole i obec teatr i obec slepu i proszę skręcać na lewo ulica nazywa się dobra dom kowalski jest na lewo,proszę idź prosto za szpita szpitalu proszę skręcać prawo ulica nazywa się juli julicka slowackiego proszę idź prosto i prosto obek skole i obek teatre i obek slepu i proszę skręcać na lewo ulica nazywa się dobra i dom kowalski jest na lewo,oui,oui
+GE,4104,julicka,julicka,,,,
+GE,4104,slowackiego,słowackiego,,,,oui
+GE,4104,obek,obec,,,,oui
+GE,4104,skole,szkole,,,oui,oui
+GE,4104,obek,obec,,,,oui
+GE,4104,teatre,teatr,,,oui,
+GE,4104,obek,obec,,,,oui
+GE,4104,slepu,slepu,,,,oui
+GE,4115,nażewa,na żywę,proszę iść proto ulica na żywę ulica niska na szpitalę proszę skręcić prawo ulica na żywę słowakiego proszę iść proto proto obok restauracji obok biblioteku obok szkolu obok teatru i na sklepie proszę skręcić lewo ulica na żywę ulica dobra i ulica dobra stere i jest na lewo,proszę iść proto ulica nażewa ulic niska zna spitale proszę sre skręcić prawo ulica nażewa liżewe slowakiego proszę iśt proto proto obok res restorac restoracu obok biblioteku obok szkolu obok teatru i zna sklepiem proszę skręcić lewo ulisa nażewa ulica dobra i ulisa dobra stery jes na lewo,,oui
+GE,4115,spitale,szpitalę,,,oui,oui
+GE,4115,sre,-,,,,
+GE,4115,nażewa,na żywę,,,,oui
+GE,4115,liżewe,-,,,,
+GE,4115,slowakiego,słowakiego,,,,oui
+GE,4115,iśt,iść,,,,oui
+GE,4115,restorac,-,,,oui,oui
+GE,4115,restoracu,restauracji,,,,
+GE,4115,biblioteku,biblioteku,,,oui,
+GE,4115,szkolu,szkolu,,,oui,oui
+GE,4115,sklepiem,sklepie,,,,oui
+GE,4115,ulisa,ulica,,,,oui
+GE,4115,nażewa,na żywę,,,,oui
+GE,4115,ulisa,ulica,,,,oui
+GE,4115,jes,jest,,,,oui
+GE,4102,sztery,cztery,ulica dobrej cztery jest obok sklep tu i obok parku i za kinem i za teatrem proszę iść prosto za szpital proszę skręczyć w prawo iść prosto iść prosto i obok szkola i obok uniwersytet iść prosto iść za sklep proszę skręczać w lewo i dom jest na lewo,ulica dobra sztery jest obok sklepu i obok parku i za kinem i za teatrem proszę iść prastu za szpitale proszę skręcić w prawo i idź prosto i prosto i obok szkola i obok uniwersitet i prosto i za sklep proszę skręczać w lewo i dom jest na lewo,,oui
+GE,4102,prastu,prosto,,,,oui
+GE,4102,szkola,szkola,,,oui,oui
+GE,4102,uniwersitet,uniwersytet,,,oui,oui
+GE,4102,skręczać,skręczać,,,,oui

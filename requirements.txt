@@ -1,0 +1,13 @@
+langdetect
+spacy
+python-Levenshtein
+fuzzywuzzy
+tabulate
+pandas
+scikit-learn
+seaborn
+matplotlib
+plotly
+jiwer
+numpy
+

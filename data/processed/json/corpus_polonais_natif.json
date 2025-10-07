@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Monika",
+        "transcription manuelle": "dobrze no to proszę wyjść ze stacji kolejowej na ulicę i kierować się prosto następnie na pierwszym skrzyżowaniu należy skręcić w prawo i iść ulicą juliusza trzeba przejść przez pasy i dalej iść ulicą słowackiego a następnie skręcić w lewo i to już jest ulica dobra i numer czwarty jest po lewej stronie",
+        "transcription automatique": "dobrze no to proszę wyjść ze stacji kolejowej na ulicę i kierować się prosto następnie na pierwszym skrzyżowaniu należy skręcić w prawo i iść ulicą juliusze trzeba przejść przez pasy i dalej iść ulicą słowackiego a następnie skręcić w lewo to już jest ulica dobra i nr 4 jest po lewej stronie"
+    },
+    {
+        "name": "Ola",
+        "transcription manuelle": "dobrze jest pan teraz na stacji kolejowej musi pan iść prosto ulicą niską następnie proszę skręcić w ulicę juliusza słowackiego przejść ją całą i skręcić w prawo w ulicę dobrą a gdzie pan dokładnie chciał dojść tak dokładnie tam będzie numer cztery jest taki domek zielony na pewno szybko rozpozna",
+        "transcription automatique": "dobrze jest pan teraz na stacji kolejowej musi pan iść prostą ulicą mińską następnie proszę skręcić w ulicy juliusza słowackiego przejdź ją całą i skręcić prawo w ulicy dobro a gdzie pan dokładnie chciał dojść tak dokładnie tam będzie nr 4 jest taki domek zielony na pewno szybko rozpozna"
+    },
+    {
+        "name": "Magda",
+        "transcription manuelle": "najpierw powinieneś pójść prosto ulicą niską potem skręcić w prawo na ulicę juliusza minąć skrzyżowanie z ulicą adama mickiewicza i cały czas prosto skręcić w lewo na ulicę dobrą po lewej stronie będzie budynek numer cztery",
+        "transcription automatique": "najpierw powinieneś pójść prostą ulicą niską potem skręcić w prawo na ulicę juliusze minąć skrzyżowanie z ulicą adamickiej bicze i cały czas prosto skręcić w lewo na ulicę dobrą po lewej stronie będzie budynek nr 4"
+    },
+    {
+        "name": "Klaudia",
+        "transcription manuelle": "proszę iść prosto i przy szpitalu to jest najbliższe skrzyżowanie skręcić w prawo na ulicę juliusza tam idzie pan prosto mija pan ulicę adama mickiewicza i idzie pan nadal prosto mija pan ulicę marii skłodowskiej curie i za sklepem jest ulica dobra w międzyczasie mija pan też teatr potem jest sklep i następnie jest ulica dobra i w nią pan skręca i numer cztery powinien być zaraz w lewo na tej ulicy",
+        "transcription automatique": "proszę iść prosto i przy szpitalu to jest najbliższe skrzyżowanie skręcić prawo na uceju riusza i tam idzie pan prosto mija pan ulicę adałamickiej wicza i idzie pan nadal prosto mija pan ulicę marii skłodowskiej kieli i ze sklepem jest ulica dobra w międzyczasie mija pan też teatr potem jest sklep i następnie jest ulica dobra i w nią pan skręca i nr 4 powinien być zaraz w lewo na tej ulicy"
+    }
+]

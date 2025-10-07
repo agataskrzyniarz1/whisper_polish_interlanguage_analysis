@@ -1,0 +1,6 @@
+Dans le terminal :
+python3 -m http.server 8000
+
+Dans le navigateur :
+http://localhost:8000
+

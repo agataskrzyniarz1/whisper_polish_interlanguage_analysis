@@ -1,0 +1,224 @@
+Correcte,Erroné,FR,IT,NL,UK,GE,Nombre total d'apprenants,Examples de mots
+sz,s,7,7,7,10,16,47,"juliusza, proszę, szkoły, szpitala, szpitalem"
+ł,l,7,5,9,7,13,41,"szkoły, słowackiego"
+s,sz,2,12,11,7,3,35,"niską, prosto, się, sklep, sklepem, sklepu, skręcisz, skręcić, słowackiego"
+c,cz,4,3,13,3,6,29,"restauracji, skręcić, stacji, słowackiego, ulica, ulicy, ulicą, ulicę"
+ć,-,3,8,3,11,1,26,"iść, skręcić"
+cz,sz,2,7,9,0,7,25,cztery
+au,o,4,0,7,4,6,21,restauracji
+j,-,7,7,0,3,2,19,"jest, restauracji, znajduje"
+c,-,1,2,3,3,5,14,słowackiego
+y,i,2,1,2,1,7,13,uniwersytetu
+c,s,4,3,0,4,2,13,"restauracji, słowackiego, ulica, ulicą, ulicę"
+ą,on,1,10,0,0,1,12,"dobrą, niską, ulicą"
+-,i,3,1,1,4,3,12,"kowalskich, krótką, niską, numer, sklepem, słowackiego, teatru, ulica, ulicą, ulicę, uniwersytetu"
+-,n,2,1,1,3,4,11,"prosto, restauracji, skręcić, słowackiego, za"
+o,-,1,1,0,2,6,10,prosto
+ę,en,8,1,0,0,1,10,"się, skręcisz, skręcić, skręć"
+-,o,1,4,2,1,2,10,"numer, numery, szpitala, szpitalem, w, za"
+-,j,2,0,3,4,1,10,"iść, lewo, ulica, ulicą, ulicę, uniwersytetu"
+cz,s,0,0,2,1,6,9,cztery
+sz,sk,7,1,0,0,1,9,juliusza
+ci,cza,0,0,1,0,8,9,skręcić
+r,-,1,0,0,5,3,9,"dobrą, numer, prosto, proszę, skręcić, teatru, uniwersytetu"
+t,-,3,0,1,1,3,8,"cztery, jest"
+sz,os,4,2,1,0,1,8,"szpitala, szpitalem, szpitalu"
+s,-,1,1,3,0,3,8,"prosto, skrzyżowaniem, skręcić"
+i,-,1,2,2,0,2,7,"juliusza, parkiem, skrzyżowania"
+o,a,2,0,0,2,3,7,"obok, prosto, szkoły, słowackiego"
+ć,t,0,0,2,4,1,7,iść
+z,-,3,0,0,3,0,6,znajduje
+u,-,1,0,1,1,3,6,"juliusza, restauracji, uwaga"
+au,-,0,0,0,6,0,6,restauracji
+t,cz,0,2,0,4,0,6,"teatru, uniwersytetu"
+-,k,0,2,2,0,2,6,juliusza
+j,ż,3,1,0,2,0,6,juliusza
+-,t,2,0,3,0,1,6,"proszę, sklepem, sklepu, za"
+k,t,2,0,0,3,0,5,"obok, skręcisz, skręcić, skręć"
+sz,hos,2,0,2,0,1,5,szpitalem
+c,dz,0,1,2,2,0,5,"skręcisz, skręcić, ulicy, ulicą"
+o,e,1,0,0,1,3,5,"obok, prosto"
+ść,dź,5,0,0,0,0,5,iść
+ic,-,0,3,0,0,2,5,"ulica, ulicą, ulicę"
+o,u,2,1,0,1,1,5,"obok, prosto, szkoły"
+a,e,0,0,2,0,2,4,prawo
+-,on,0,4,0,0,0,4,ulicę
+j,dż,1,0,1,2,0,4,juliusza
+o,eu,0,0,0,4,0,4,"obok, prawo, prosto, słowackiego"
+l,-,0,2,0,0,2,4,"kowalskich, szpitalem"
+-,s,2,1,1,0,0,4,"cztery, i, kowalskich, słowackiego"
+skrz,sz,0,2,0,0,2,4,"skrzyżowania, skrzyżowaniem, skrzyżowaniu"
+er,-,0,0,1,0,3,4,numer
+s,z,0,0,0,2,1,3,się
+c,k,2,0,0,1,0,3,"ulica, ulicą, ulicę"
+ć,sz,2,0,0,1,0,3,skręcić
+ć,ś,2,1,0,0,0,3,skręcić
+c,czi,0,0,3,0,0,3,"ulica, ulicę"
+s,c,2,0,1,0,0,3,"jest, się"
+ł,k,2,0,1,0,0,3,słowackiego
+c,sz,2,0,0,1,0,3,"ulica, ulicę"
+c,ls,2,0,1,0,0,3,słowackiego
+u,a,0,0,1,2,0,3,"juliusza, ulicą, ulicę"
+usz,esk,2,0,0,1,0,3,juliusza
+-,z,0,0,0,1,1,2,"dom, na"
+ęc,encz,1,1,0,0,0,2,"skręcisz, skręcić"
+ow,-,2,0,0,0,0,2,słowackiego
+ć,ks,0,0,1,1,0,2,skręcić
+p,b,1,0,1,0,0,2,"prawo, sklepem"
+ki,j,0,2,0,0,0,2,słowackiego
+ć,cz,1,1,0,0,0,2,"iść, skręcić"
+w,l,0,0,1,1,0,2,w
+sł,szl,0,1,1,0,0,2,słowackiego
+ą,o,0,1,0,1,0,2,"niską, ulicą"
+rsy,zi,0,0,0,0,2,2,uniwersytetu
+-,ł,0,0,0,2,0,2,"lewo, słowackiego"
+-,um,1,0,0,0,1,2,na
+r,sz,0,2,0,0,0,2,teatru
+sz,ż,0,1,0,1,0,2,proszę
+k,-,0,0,0,0,2,2,"obok, sklepu"
+ić,-,0,0,1,0,1,2,skręcić
+ść,sz,0,1,0,1,0,2,iść
+-,ci,2,0,0,0,0,2,skręć
+y,e,0,0,0,0,2,2,"nazywa, skrzyżowaniem"
+sk,-,0,1,0,0,1,2,"kowalskich, skrzyżowaniem"
+al,-,1,0,0,0,1,2,"szpitala, szpitalem"
+c,sj,0,0,0,2,0,2,ulicę
+ę,e,2,0,0,0,0,2,skręcić
+u,e,0,0,1,1,0,2,"juliusza, ulicą"
+usz,sk,0,0,0,1,1,2,juliusza
+-,r,0,0,0,2,0,2,"dobrą, prosto"
+-,ko,1,1,0,0,0,2,"juliusza, słowackiego"
+usz,ask,0,0,0,2,0,2,juliusza
+ł,-,1,0,0,0,0,1,słowackiego
+-,eg,1,0,0,0,0,1,słowackiego
+i,sj,0,1,0,0,0,1,słowackiego
+a,o,0,1,0,0,0,1,słowackiego
+c,ń,1,0,0,0,0,1,słowackiego
+cki,sj,0,1,0,0,0,1,słowackiego
+lic,cz,0,0,1,0,0,1,ulicą
+cki,tsj,0,1,0,0,0,1,słowackiego
+ck,cz,0,0,1,0,0,1,słowackiego
+-,l,0,0,1,0,0,1,ulicą
+ck,s,0,0,0,1,0,1,słowackiego
+ł,t,0,0,0,1,0,1,słowackiego
+c,szi,0,0,0,1,0,1,ulicą
+k,ty,0,0,0,0,1,1,skręć
+s,śc,1,0,0,0,0,1,się
+i,t,0,0,0,0,1,1,się
+sk,cz,1,0,0,0,0,1,skręcisz
+ę,ej,1,0,0,0,0,1,skręć
+-,ts,1,0,0,0,0,1,"sklepem, sklepu"
+-,d,0,1,0,0,0,1,sklepu
+-,go,0,0,0,1,0,1,słowackiego
+-,e,0,0,0,1,0,1,sklepu
+e,-,0,0,0,1,0,1,sklepu
+-,lo,1,0,0,0,0,1,słowackiego
+i,y,0,0,0,1,0,1,"niską, szpitala"
+ą,om,1,0,0,0,0,1,niską
+c,ch,0,0,0,1,0,1,ulicą
+ac,es,1,0,0,0,0,1,słowackiego
+ł,kl,1,0,0,0,0,1,słowackiego
+sk,sz,0,0,0,1,0,1,sklepu
+y,a,0,0,0,0,1,1,nazywa
+ść,szt,0,0,0,1,0,1,iść
+ć,c,0,0,0,1,0,1,iść
+cj,sz,0,0,0,0,1,1,stacja
+ó,a,0,0,0,1,0,1,krótką
+am,-,0,0,1,0,0,1,tam
+dź,dz,0,0,1,0,0,1,jedź
+ack,-,0,0,0,1,0,1,słowackiego
+ść,szcz,1,0,0,0,0,1,iść
+-,ajd,0,0,0,1,0,1,na
+-,amb,0,0,0,0,1,1,na
+a,u,0,1,0,0,0,1,tutaj
+ś,sz,0,1,0,0,0,1,środku
+teką,-,0,0,0,0,1,1,biblioteką
+g,-,0,1,0,0,0,1,rogu
+zi,ż,0,1,0,0,0,1,zielony
+ch,g,0,0,1,0,0,1,jechać
+ck,ncz,0,0,0,1,0,1,słowackiego
+o,as,0,0,0,1,0,1,słowackiego
+sz,zos,0,0,1,0,0,1,szpitalem
+ł,j,0,0,0,0,1,1,słowackiego
+cki,j,0,0,0,0,1,1,słowackiego
+ck,g,0,0,0,0,1,1,słowackiego
+dź,ść,1,0,0,0,0,1,idź
+idź,-,0,1,0,0,0,1,idź
+zy,że,0,0,0,0,1,1,nazywa
+dź,kś,0,1,0,0,0,1,idź
+-,sz,0,1,0,0,0,1,idź
+l,r,1,0,0,0,0,1,sklepem
+p,t,1,0,0,0,0,1,sklepem
+-,en,0,1,0,0,0,1,sklepem
+l,wr,1,0,0,0,0,1,lewo
+z,dz,0,1,0,0,0,1,za
+z,sz,0,0,1,0,0,1,za
+dź,chś,0,1,0,0,0,1,idź
+p,g,1,0,0,0,0,1,prawo
+sz,za,0,0,0,1,0,1,szpitala
+jd,g,0,0,0,1,0,1,znajduje
+j,z,1,0,0,0,0,1,znajduje
+st,ch,0,1,0,0,0,1,prosto
+uj,ywo,1,0,0,0,0,1,znajduje
+to,-,0,0,0,1,0,1,prosto
+m,-,1,0,0,0,0,1,dom
+sz,z,0,0,0,1,0,1,juliusza
+-,or,1,0,0,0,0,1,restauracji
+ra,-,1,0,0,0,0,1,restauracji
+c,ncz,0,0,1,0,0,1,restauracji
+cj,ntaż,0,0,0,1,0,1,restauracji
+acj,ok,0,0,0,1,0,1,restauracji
+tau,o,0,0,0,0,1,1,restauracji
+a,-,0,0,0,0,1,1,restauracji
+ok,ut,1,0,0,0,0,1,obok
+ci,-,1,0,0,0,0,1,skręcić
+ę,em,0,1,0,0,0,1,skręcić
+ć,śt,1,0,0,0,0,1,skręcić
+ć,ak,0,0,1,0,0,1,skręcić
+kręc,-,1,0,0,0,0,1,skręcić
+cić,cz,0,0,1,0,0,1,skręcić
+-,szken,1,0,0,0,0,1,skręcić
+i,a,0,0,0,0,1,1,skręcić
+ć,k,0,0,0,1,0,1,skręcić
+ęc,ocz,1,0,0,0,0,1,skręcić
+cić,czen,0,0,0,1,0,1,skręcić
+ęcić,enczen,0,0,0,1,0,1,skręcić
+ęci,ynczy,0,0,0,1,0,1,skręcić
+ci,czy,0,0,0,0,1,1,skręcić
+cić,czak,0,0,0,0,1,1,skręcić
+cić,czek,0,0,0,0,1,1,skręcić
+c,dż,0,0,0,1,0,1,skręcić
+w,es,1,0,0,0,0,1,w
+w,cz,1,0,0,0,0,1,w
+w,dz,0,1,0,0,0,1,w
+w,ez,0,1,0,0,0,1,w
+iusz,esk,1,0,0,0,0,1,juliusza
+w,n,0,0,1,0,0,1,w
+w,ob,0,0,0,1,0,1,w
+-,res,1,0,0,0,0,1,teatru
+ic,cz,0,0,0,1,0,1,ulicę
+c,pi,0,0,0,1,0,1,ulicę
+cz,c,0,0,1,0,0,1,cztery
+t,j,0,0,1,0,0,1,cztery
+t,i,0,0,0,0,1,1,cztery
+u,o,0,0,0,1,0,1,ulicę
+-,ic,0,0,0,0,1,1,i
+ę,y,0,0,0,0,1,1,skręć
+w,pr,0,0,0,0,1,1,w
+e,or,1,0,0,0,0,1,teatru
+tr,uk,1,0,0,0,0,1,teatru
+e,i,1,0,0,0,0,1,teatru
+usz,aniz,0,0,0,1,0,1,juliusza
+usz,żas,0,0,1,0,0,1,juliusza
+usz,cz,0,0,1,0,0,1,juliusza
+-,u,1,0,0,0,0,1,szkoły
+rsy,rzi,0,0,0,0,1,1,uniwersytetu
+oł,ul,0,0,0,0,1,1,szkoły
+ni,-,1,0,0,0,0,1,uniwersytetu
+t,ć,1,0,0,0,0,1,uniwersytetu
+rsy,szi,0,0,1,0,0,1,uniwersytetu
+sy,szi,0,0,1,0,0,1,uniwersytetu
+t,ci,0,0,0,0,1,1,uniwersytetu
+sz,cz,1,0,0,0,0,1,juliusza
+et,-,0,0,0,0,1,1,uniwersytetu
+sz,zs,0,0,0,1,0,1,szkoły

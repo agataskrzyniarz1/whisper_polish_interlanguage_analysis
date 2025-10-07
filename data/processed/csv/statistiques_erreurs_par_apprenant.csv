@@ -1,0 +1,468 @@
+Forme correcte,Forme erronée (manuel),Nombre d'apprenants,FR,IT,NL,UK,GE,Apprenants
+iść,idź,5,5,0,0,0,0,"1104, 1108, 1113, 1114, 1115"
+iść,iś,25,2,8,3,11,1,"1115, 1118, 2109, 2111, 2117, 3101, 3102, 3103, 3105, 3106, 3107, 3112, 3113, 3114, 3117, 3118, 4118, 5101, 5104, 5106, 5107, 5112, 5114, 5117, 5119"
+iść,iszcze,1,1,0,0,0,0,1117
+iść,iścz,1,1,0,0,0,0,1117
+iść,isze,1,0,1,0,0,0,5109
+iść,jiść,1,0,0,1,0,0,2105
+iść,iśt,6,0,0,2,3,1,"2114, 2118, 3103, 3114, 3117, 4115"
+iść,iszte,1,0,0,0,1,0,3115
+iść,iśte,1,0,0,0,1,0,3115
+iść,isz,1,0,0,0,1,0,3101
+iść,iśc,1,0,0,0,1,0,3105
+ulicą,ulicza,12,2,0,7,2,1,"1103, 1114, 2101, 2103, 2106, 2107, 2117, 2119, 2120, 3106, 3117, 4120"
+ulicą,ulisa,2,1,0,0,1,0,"1120, 3109"
+ulicą,ulica,30,10,6,5,5,4,"1101, 1102, 1105, 1106, 1110, 1112, 1113, 1115, 1117, 1119, 2102, 2108, 2109, 2116, 2118, 3103, 3112, 3113, 3114, 3118, 4109, 4112, 4118, 4119, 5109, 5111, 5112, 5113, 5114, 5115"
+ulicą,ulice,2,1,1,0,0,0,"1104, 5112"
+ulicą,ulika,3,2,0,0,1,0,"1108, 1118, 3105"
+ulicą,ulico,1,0,1,0,0,0,5112
+ulicą,ulicon,9,0,8,0,0,1,"4117, 5101, 5102, 5104, 5106, 5107, 5116, 5118, 5119"
+ulicą,uli,1,0,1,0,0,0,5104
+ulicą,ulicę,1,0,1,0,0,0,5119
+ulicą,ulidze,1,0,1,0,0,0,5120
+ulicą,ulicja,3,0,0,1,2,0,"2113, 3102, 3113"
+ulicą,ulicia,1,0,0,1,0,0,2114
+ulicą,luczi,1,0,0,1,0,0,2107
+ulicą,julisa,1,0,0,0,1,0,3104
+ulicą,uliszia,1,0,0,0,1,0,3108
+ulicą,alica,1,0,0,0,1,0,3116
+ulicą,elicha,1,0,0,0,1,0,3105
+ulicą,alika,1,0,0,0,1,0,3105
+ulicą,ulicy,1,0,0,0,0,1,4103
+niską,niska,44,12,3,13,12,4,"1101, 1103, 1105, 1106, 1108, 1112, 1113, 1114, 1115, 1117, 1119, 1120, 2101, 2102, 2103, 2106, 2107, 2108, 2109, 2113, 2114, 2116, 2118, 2119, 2120, 3102, 3103, 3104, 3106, 3108, 3109, 3112, 3113, 3114, 3116, 3117, 3118, 4109, 4112, 4118, 4120, 5111, 5114, 5115"
+niską,niskom,1,1,0,0,0,0,1104
+niską,niszka,4,2,1,1,0,0,"1110, 1118, 2117, 5113"
+niską,nisko,2,0,1,0,1,0,"3107, 5112"
+niską,niskon,10,0,9,0,0,1,"4117, 5101, 5102, 5104, 5107, 5109, 5116, 5118, 5119, 5120"
+niską,niszkon,1,0,1,0,0,0,5106
+niską,nyska,1,0,0,0,1,0,3105
+niską,niskie,1,0,0,0,0,1,4103
+skręć,strejć,1,1,0,0,0,0,1114
+skręć,skręcić,2,2,0,0,0,0,"1102, 1103"
+skręć,skrenć,1,1,0,0,0,0,1106
+skręć,styryć,1,0,0,0,0,1,4120
+ulicę,ulicza,12,2,0,5,2,3,"1103, 1114, 2103, 2106, 2114, 2117, 2119, 3106, 3117, 4112, 4113, 4120"
+ulicę,ulisa,3,1,0,0,2,0,"1120, 3103, 3109"
+ulicę,ulica,31,10,7,8,3,3,"1101, 1102, 1105, 1106, 1108, 1112, 1113, 1115, 1117, 1119, 2102, 2104, 2105, 2108, 2109, 2113, 2115, 2118, 3103, 3107, 3118, 4109, 4112, 4122, 5105, 5106, 5109, 5113, 5114, 5115, 5117"
+ulicę,ulice,2,1,0,0,1,0,"1104, 3114"
+ulicę,ulika,2,2,0,0,0,0,"1108, 1118"
+ulicę,ulisza,1,1,0,0,0,0,1103
+ulicę,ulicze,1,1,0,0,0,0,1116
+ulicę,ulicon,4,0,4,0,0,0,"5101, 5107, 5118, 5119"
+ulicę,ul,1,0,1,0,0,0,5106
+ulicę,uli,1,0,1,0,0,0,5115
+ulicę,uliczia,2,0,0,2,0,0,"2101, 2113"
+ulicę,ulicia,1,0,0,1,0,0,2114
+ulicę,ulicja,2,0,0,0,2,0,"3102, 3113"
+ulicę,olicę,1,0,0,0,1,0,3115
+ulicę,ulisze,1,0,0,0,1,0,3109
+ulicę,ulisja,2,0,0,0,2,0,"3101, 3108"
+ulicę,ulisę,1,0,0,0,1,0,3114
+ulicę,ulicz,1,0,0,0,1,0,3117
+ulicę,julisa,1,0,0,0,1,0,3104
+ulicę,ulisję,1,0,0,0,1,0,3108
+ulicę,ulipia,1,0,0,0,1,0,3105
+ulicę,alika,1,0,0,0,1,0,3105
+ulicę,ulcze,1,0,0,0,1,0,3106
+juliusza,juliuska,6,5,0,0,0,1,"1104, 1112, 1114, 1116, 1119, 4101"
+juliusza,julius,1,1,0,0,0,0,1110
+juliusza,żuliuska,3,2,1,0,0,0,"1103, 1115, 5113"
+juliusza,dżulieska,2,1,0,0,1,0,"1113, 3101"
+juliusza,juleska,1,1,0,0,0,0,1118
+juliusza,julieska,1,1,0,0,0,0,1118
+juliusza,julucza,1,1,0,0,0,0,1105
+juliusza,żuliusa,1,1,0,0,0,0,1106
+juliusza,juliuszka,3,0,2,0,0,1,"4108, 5101, 5105"
+juliusza,julusza,4,0,1,2,0,1,"2114, 2119, 4112, 5106"
+juliusza,juliuszko,1,0,1,0,0,0,5118
+juliusza,juliaszka,1,0,0,1,0,0,2103
+juliusza,julicza,1,0,0,1,0,0,2115
+juliusza,dżulius,1,0,0,1,0,0,2113
+juliusza,julieszka,1,0,0,1,0,0,2106
+juliusza,juliusz,1,0,0,1,0,0,2118
+juliusza,juliżasi,1,0,0,1,0,0,2107
+juliusza,żulianizi,1,0,0,0,1,0,3102
+juliusza,żulius,1,0,0,0,1,0,3103
+juliusza,juliske,1,0,0,0,1,0,3112
+juliusza,juliuza,1,0,0,0,1,0,3114
+juliusza,juliaska,1,0,0,0,1,0,3104
+juliusza,juliusa,2,0,0,0,1,1,"3107, 4110"
+juliusza,dżuliaska,1,0,0,0,1,0,3105
+juliusza,julisze,1,0,0,0,0,1,4109
+juliusza,juliska,1,0,0,0,0,1,4120
+juliusza,juliszka,1,0,0,0,0,1,4119
+juliusza,juliuse,1,0,0,0,0,1,4114
+dobrą,dobra,46,12,8,11,10,5,"1102, 1103, 1105, 1106, 1108, 1112, 1113, 1114, 1115, 1117, 1118, 1120, 2102, 2103, 2104, 2105, 2109, 2113, 2114, 2115, 2117, 2118, 2119, 3101, 3102, 3103, 3105, 3106, 3107, 3113, 3114, 3115, 3117, 4109, 4112, 4113, 4120, 4122, 5105, 5106, 5109, 5111, 5113, 5114, 5115, 5117"
+dobrą,dobron,6,1,5,0,0,0,"1104, 5101, 5102, 5107, 5118, 5119"
+dobrą,dobry,1,1,0,0,0,0,1119
+dobrą,dobre,3,1,0,0,2,0,"1116, 3109, 3118"
+dobrą,dobru,1,0,1,0,0,0,5112
+dobrą,dorba,1,0,0,0,1,0,3108
+znajduje,znajdywo,1,1,0,0,0,0,1114
+znajduje,znaduje,10,5,5,0,0,0,"1101, 1104, 1113, 1116, 1118, 5104, 5106, 5112, 5114, 5117"
+znajduje,znazduje,1,1,0,0,0,0,1110
+znajduje,najduje,3,1,0,0,2,0,"1108, 3113, 3118"
+znajduje,naduje,2,2,0,0,0,0,"1105, 1115"
+znajduje,znaduj,2,0,1,0,1,0,"3115, 5107"
+znajduje,znajduj,1,0,1,0,0,0,5120
+znajduje,naguje,1,0,0,0,1,0,3112
+kowalskich,kowalski,16,1,4,5,3,3,"1114, 2102, 2103, 2109, 2113, 2120, 3104, 3108, 3113, 4104, 4116, 4117, 5109, 5112, 5116, 5117"
+kowalskich,kowalskiego,1,1,0,0,0,0,1119
+kowalskich,kowalska,2,1,0,0,0,1,"1108, 4119"
+kowalskich,skowalski,2,1,1,0,0,0,"1116, 5101"
+kowalskich,kowaski,2,0,2,0,0,0,"5114, 5115"
+kowalskich,kowal,1,0,1,0,0,0,5102
+szpitala,ospital,2,1,1,0,0,0,"1120, 5112"
+szpitala,spita,1,1,0,0,0,0,1119
+szpitala,oszpital,2,1,1,0,0,0,"1118, 5111"
+szpitala,spital,5,1,1,0,3,0,"1117, 3101, 3109, 3118, 5115"
+szpitala,szpitalu,7,1,5,1,0,0,"1101, 2120, 5101, 5116, 5117, 5119, 5120"
+szpitala,szpital,5,0,1,2,2,0,"2105, 2106, 3103, 3107, 5114"
+szpitala,szpitalem,2,0,1,0,0,1,"4122, 5101"
+szpitala,spitalu,3,0,1,0,1,1,"3106, 4112, 5106"
+szpitala,spitalem,2,0,2,0,0,0,"5107, 5109"
+szpitala,szpitale,1,0,1,0,0,0,5113
+szpitala,zapital,1,0,0,0,1,0,3102
+szpitala,spytal,1,0,0,0,1,0,3105
+szpitala,spitala,1,0,0,0,0,1,4116
+skręcić,skroczie,1,1,0,0,0,0,1120
+skręcić,skrecić,1,1,0,0,0,0,1120
+skręcić,skrencić,3,2,1,0,0,0,"1104, 1119, 5111"
+skręcić,skrencisz,2,2,0,0,0,0,"1110, 1115"
+skręcić,szkensiś,1,1,0,0,0,0,1108
+skręcić,skreciś,1,1,0,0,0,0,1118
+skręcić,skrenciśt,1,1,0,0,0,0,1118
+skręcić,skręć,1,1,0,0,0,0,1106
+skręcić,skręczić,5,0,3,0,1,1,"3108, 4116, 5106, 5114, 5119"
+skręcić,skręcicz,1,0,1,0,0,0,5101
+skręcić,skręciś,1,0,1,0,0,0,5117
+skręcić,skrenczić,1,0,1,0,0,0,5107
+skręcić,skremcić,1,0,1,0,0,0,5113
+skręcić,szkręcić,5,0,1,3,1,0,"2101, 2104, 2118, 3116, 5118"
+skręcić,skręca,1,0,0,1,0,0,2103
+skręcić,skręciak,1,0,0,1,0,0,2115
+skręcić,skrędzić,3,0,0,2,1,0,"2107, 2120, 3108"
+skręcić,kręcić,4,0,0,2,0,2,"2102, 2114, 4106, 4108"
+skręcić,szkręcza,1,0,0,1,0,0,2106
+skręcić,szkręczać,1,0,0,1,0,0,2106
+skręcić,kręciks,1,0,0,1,0,0,2101
+skręcić,strędżik,1,0,0,0,1,0,3102
+skręcić,skręciks,1,0,0,0,1,0,3103
+skręcić,skręcinć,1,0,0,0,1,0,3109
+skręcić,strędzisz,1,0,0,0,1,0,3101
+skręcić,skręczen,1,0,0,0,1,0,3117
+skręcić,skrenczen,1,0,0,0,1,0,3117
+skręcić,stręcić,1,0,0,0,1,0,3104
+skręcić,skrynczyć,1,0,0,0,1,0,3106
+skręcić,skręcie,1,0,0,0,1,0,3113
+skręcić,skęczać,1,0,0,0,0,1,4109
+skręcić,skręczać,8,0,0,0,0,8,"4102, 4103, 4109, 4110, 4116, 4118, 4119, 4123"
+skręcić,skręc,1,0,0,0,0,1,4113
+skręcić,skręczyć,1,0,0,0,0,1,4103
+skręcić,skręczak,1,0,0,0,0,1,4105
+skręcić,skręczek,1,0,0,0,0,1,4105
+skręcić,skręcać,1,0,0,0,0,1,4104
+prawo,grawo,1,1,0,0,0,0,1120
+prawo,brawo,1,0,0,1,0,0,2103
+prawo,prewo,4,0,0,2,0,2,"2101, 2107, 4105, 4110"
+prawo,praweu,3,0,0,0,3,0,"3104, 3105, 3112"
+prawo,prawou,1,0,0,0,1,0,3105
+prosto,proto,2,1,0,0,0,1,"1120, 4115"
+prosto,posto,1,1,0,0,0,0,1113
+prosto,proste,4,1,0,0,2,1,"1117, 3102, 3105, 4105"
+prosto,presto,1,1,0,0,0,0,1101
+prosto,proszte,1,0,1,0,0,0,5117
+prosto,prochon,1,0,1,0,0,0,5113
+prosto,proszto,3,0,0,0,3,0,"3115, 3116, 3119"
+prosto,prosteu,2,0,0,0,2,0,"3112, 3117"
+prosto,prastou,1,0,0,0,1,0,3117
+prosto,pros,1,0,0,0,1,0,3117
+prosto,preusto,1,0,0,0,1,0,3104
+prosto,prostro,1,0,0,0,1,0,3107
+prosto,prasta,1,0,0,0,1,0,3105
+prosto,prasto,2,0,0,0,1,1,"3105, 4101"
+prosto,prusto,1,0,0,0,1,0,3106
+prosto,prostu,4,0,0,0,0,4,"4108, 4109, 4110, 4113"
+prosto,prosta,1,0,0,0,0,1,4105
+prosto,prastu,1,0,0,0,0,1,4102
+obok,ubak,1,1,0,0,0,0,1120
+obok,ubok,1,1,0,0,0,0,1120
+obok,obot,1,1,0,0,0,0,1104
+obok,obuk,2,1,0,0,0,1,"1115, 4113"
+obok,obut,1,1,0,0,0,0,1115
+obok,obek,4,0,0,0,1,3,"3104, 4104, 4106, 4108"
+obok,obak,1,0,0,0,1,0,3105
+obok,eubok,1,0,0,0,1,0,3105
+obok,obo,1,0,0,0,0,1,4117
+restauracji,restorancja,1,1,0,0,0,0,1120
+restauracji,restoraucje,1,1,0,0,0,0,1110
+restauracji,restoracja,13,2,0,5,2,4,"1106, 1119, 2103, 2105, 2108, 2117, 2120, 3107, 3116, 4101, 4105, 4109, 4122"
+restauracji,restoraczje,1,1,0,0,0,0,1113
+restauracji,restauracja,5,1,4,0,0,0,"1115, 5106, 5107, 5115, 5118"
+restauracji,restaurasja,1,0,1,0,0,0,5112
+restauracji,restaracja,2,0,0,1,0,1,"2111, 4103"
+restauracji,restoranczja,1,0,0,1,0,0,2106
+restauracji,restoraczja,1,0,0,1,0,0,2118
+restauracji,restrantaże,1,0,0,0,1,0,3102
+restauracji,restaracji,1,0,0,0,1,0,3115
+restauracji,restoroka,1,0,0,0,1,0,3103
+restauracji,restracji,3,0,0,0,3,0,"3109, 3112, 3118"
+restauracji,restraca,1,0,0,0,1,0,3114
+restauracji,restoranca,1,0,0,0,1,0,3104
+restauracji,restracje,1,0,0,0,1,0,3108
+restauracji,restoracje,1,0,0,0,0,1,4116
+restauracji,resorancja,1,0,0,0,0,1,4123
+restauracji,restorac,1,0,0,0,0,1,4115
+restauracji,resturacja,1,0,0,0,0,1,4108
+teatru,teatr,15,2,4,7,1,1,"1119, 1120, 2103, 2106, 2109, 2113, 2116, 2117, 2120, 3103, 4108, 5104, 5106, 5115, 5117"
+teatru,restorauk,1,1,0,0,0,0,1110
+teatru,teatry,1,1,0,0,0,0,1113
+teatru,tiatr,1,1,0,0,0,0,1106
+teatru,teatra,1,0,1,0,0,0,5114
+teatru,teatsz,1,0,1,0,0,0,5112
+teatru,teatszem,1,0,1,0,0,0,5101
+teatru,teatre,10,0,3,0,4,3,"3107, 3114, 3115, 3116, 4104, 4106, 4112, 5107, 5111, 5118"
+teatru,teat,2,0,0,0,1,1,"3118, 4101"
+teatru,tieat,1,0,0,0,1,0,3112
+teatru,teaczre,2,0,0,0,2,0,"3104, 3109"
+teatru,teaczra,1,0,0,0,1,0,3101
+teatru,tieatr,1,0,0,0,1,0,3113
+teatru,teatu,1,0,0,0,0,1,4103
+teatru,teatrem,1,0,0,0,0,1,4116
+teatru,tieatre,1,0,0,0,0,1,4110
+szkoły,skola,8,2,1,2,1,2,"1108, 1120, 2107, 2116, 3101, 4112, 4123, 5115"
+szkoły,skała,1,1,0,0,0,0,1110
+szkoły,skoly,3,1,1,0,0,1,"1119, 4117, 5106"
+szkoły,skuole,1,1,0,0,0,0,1116
+szkoły,szkola,10,0,1,4,4,1,"2106, 2111, 2113, 2119, 3103, 3112, 3114, 3118, 4102, 5114"
+szkoły,szkuła,1,0,1,0,0,0,5112
+szkoły,skoły,3,0,2,0,0,1,"4116, 5101, 5107"
+szkoły,skołe,2,0,1,1,0,0,"2108, 5101"
+szkoły,szkoly,1,0,1,0,0,0,5104
+szkoły,skole,6,0,1,0,0,5,"4104, 4105, 4108, 4109, 4119, 5111"
+szkoły,szkoła,5,0,0,3,1,1,"2105, 2109, 2118, 3113, 4110"
+szkoły,zskola,1,0,0,0,1,0,3102
+szkoły,skoła,2,0,0,0,1,1,"3109, 4101"
+szkoły,szkole,1,0,0,0,1,0,3108
+szkoły,szkula,1,0,0,0,0,1,4113
+szkoły,szkolu,1,0,0,0,0,1,4115
+uniwersytetu,juwersytet,1,1,0,0,0,0,1120
+uniwersytetu,uniwersytet,5,1,0,3,1,0,"1119, 2109, 2113, 2118, 3108"
+uniwersytetu,uniwersitet,8,1,1,1,0,5,"1108, 2116, 4102, 4108, 4109, 4110, 4122, 5115"
+uniwersytetu,uniwersiteć,1,1,0,0,0,0,1115
+uniwersytetu,uniwersyteczem,1,0,1,0,0,0,5101
+uniwersytetu,uniwersytecze,1,0,1,0,0,0,5111
+uniwersytetu,uniweszitet,1,0,0,1,0,0,2119
+uniwersytetu,uniwerszitet,1,0,0,1,0,0,2106
+uniwersytetu,juniwersitet,1,0,0,1,0,0,2107
+uniwersytetu,juniwersitecz,1,0,0,0,1,0,3106
+uniwersytetu,uniwersitecia,1,0,0,0,0,1,4112
+uniwersytetu,uniwezitet,1,0,0,0,0,1,4113
+uniwersytetu,uniwersitete,1,0,0,0,0,1,4119
+uniwersytetu,uniwesytietu,1,0,0,0,0,1,4103
+uniwersytetu,uniwezite,1,0,0,0,0,1,4106
+uniwersytetu,uniwerzitet,1,0,0,0,0,1,4123
+w,es,1,1,0,0,0,0,1120
+w,cz,1,1,0,0,0,0,1117
+w,wy,6,1,5,0,0,0,"1101, 5106, 5107, 5109, 5113, 5117"
+w,we,1,0,1,0,0,0,5105
+w,dze,1,0,1,0,0,0,5117
+w,ez,1,0,1,0,0,0,5106
+w,le,2,0,0,1,1,0,"2119, 3117"
+w,ne,1,0,0,1,0,0,2106
+w,wo,1,0,0,1,0,0,2107
+w,obe,1,0,0,0,1,0,3105
+w,pre,1,0,0,0,0,1,4114
+cztery,czery,4,3,0,0,1,0,"1115, 1118, 1120, 3107"
+cztery,sztery,23,2,5,9,0,7,"1103, 1110, 2102, 2103, 2106, 2108, 2114, 2116, 2117, 2118, 2119, 4101, 4102, 4108, 4113, 4117, 4118, 4120, 5101, 5104, 5105, 5107, 5111"
+cztery,scztery,1,1,0,0,0,0,1116
+cztery,szteri,1,0,1,0,0,0,5112
+cztery,cztere,1,0,1,0,0,0,5119
+cztery,sztere,1,0,1,0,0,0,5113
+cztery,czteri,1,0,1,0,0,0,5115
+cztery,ctery,1,0,0,1,0,0,2111
+cztery,stery,9,0,0,2,1,6,"2104, 2114, 3109, 4103, 4106, 4112, 4114, 4115, 4116"
+cztery,czjery,1,0,0,1,0,0,2107
+cztery,cziery,1,0,0,0,0,1,4119
+dom,do,1,1,0,0,0,0,1120
+dom,domu,2,0,2,0,0,0,"5111, 5120"
+dom,doma,1,0,0,0,1,0,3108
+dom,zdom,1,0,0,0,0,1,4105
+i,si,1,1,0,0,0,0,1102
+i,ic,1,0,0,0,0,1,4116
+szpitalem,szpitalu,8,4,2,1,0,1,"1104, 1106, 1112, 1116, 2120, 4123, 5117, 5118"
+szpitalem,ospitalem,3,2,1,0,0,0,"1103, 1110, 5109"
+szpitalem,oszpital,1,1,0,0,0,0,1118
+szpitalem,hospitalem,2,1,0,0,0,1,"1105, 4106"
+szpitalem,hospitalu,1,1,0,0,0,0,1115
+szpitalem,oszpitalu,2,0,2,0,0,0,"5105, 5112"
+szpitalem,oszpitalem,1,0,1,0,0,0,5107
+szpitalem,szpitale,2,0,1,0,0,1,"4102, 5113"
+szpitalem,spitalem,7,0,1,1,0,5,"2116, 4114, 4117, 4118, 4119, 4122, 5102"
+szpitalem,szpital,9,0,1,4,3,1,"2103, 2109, 2113, 2118, 3114, 3115, 3119, 4110, 5120"
+szpitalem,spitala,1,0,1,0,0,0,5115
+szpitalem,hospital,2,0,0,2,0,0,"2101, 2119"
+szpitalem,spital,6,0,0,2,3,1,"2114, 2115, 3112, 3113, 3117, 4101"
+szpitalem,ospital,2,0,0,1,0,1,"2117, 4108"
+szpitalem,zospitalu,1,0,0,1,0,0,2102
+szpitalem,spitae,1,0,0,0,0,1,4120
+szpitalem,spitalu,1,0,0,0,0,1,4116
+szpitalem,szpitaem,1,0,0,0,0,1,4105
+szpitalem,szpita,1,0,0,0,0,1,4104
+szpitalem,spitale,1,0,0,0,0,1,4115
+się,cię,1,1,0,0,0,0,1104
+się,sie,2,2,0,0,0,0,"1116, 1118"
+się,ście,1,1,0,0,0,0,1105
+się,cie,1,1,0,0,0,0,1115
+się,szie,5,0,5,0,0,0,"5106, 5107, 5112, 5114, 5120"
+się,szię,3,0,1,0,0,2,"4101, 4110, 5101"
+się,zię,3,0,0,0,2,1,"3115, 3118, 4106"
+się,sien,1,0,0,0,0,1,4112
+się,stę,1,0,0,0,0,1,4105
+dobra,dobre,5,2,1,2,0,0,"1104, 1116, 2114, 2119, 5101"
+dobra,dobry,1,0,0,1,0,0,2118
+dobra,dobrej,1,0,0,0,0,1,4116
+uwaga,waga,1,1,0,0,0,0,1110
+skręcisz,szkrencisz,1,1,0,0,0,0,1110
+skręcisz,skrencisz,2,2,0,0,0,0,"1113, 1116"
+skręcisz,czrenczisz,1,1,0,0,0,0,1117
+skręcisz,strędzisz,1,0,0,0,1,0,3101
+ulicy,ulice,1,1,0,0,0,0,1110
+ulicy,ulic,1,1,0,0,0,0,1101
+ulicy,ulica,9,0,4,1,0,4,"2105, 4110, 4117, 4118, 4119, 5104, 5105, 5109, 5115"
+ulicy,ulidza,1,0,1,0,0,0,5120
+ulicy,ulicza,4,0,0,3,0,1,"2103, 2106, 2119, 4106"
+dobrej,dobre,5,3,2,0,0,0,"1101, 1105, 1110, 5119, 5120"
+dobrej,dobry,1,0,1,0,0,0,5112
+dobrej,dobra,12,0,3,4,0,5,"2103, 2105, 2106, 2119, 4106, 4110, 4117, 4118, 4119, 5105, 5115, 5120"
+sklepu,sklep,18,3,5,3,5,2,"1101, 1106, 1119, 2117, 2119, 2120, 3102, 3104, 3105, 3109, 3118, 4105, 4113, 5107, 5111, 5114, 5116, 5117"
+sklepu,sklepem,2,1,1,0,0,0,"1113, 5101"
+sklepu,sklept,2,2,0,0,0,0,"1117, 1118"
+sklepu,sklepts,1,1,0,0,0,0,1115
+sklepu,szklepe,1,0,1,0,0,0,5104
+sklepu,szklepu,2,0,1,1,0,0,"2104, 5119"
+sklepu,sklepe,1,0,1,0,0,0,5107
+sklepu,szklep,7,0,1,6,0,0,"2101, 2103, 2106, 2109, 2113, 2118, 5113"
+sklepu,sklepd,1,0,1,0,0,0,5109
+sklepu,szlep,1,0,0,0,1,0,3101
+sklepu,skelp,1,0,0,0,1,0,3106
+sklepu,slepu,1,0,0,0,0,1,4104
+słowackiego,slołackiego,1,1,0,0,0,0,1108
+słowackiego,slowakiego,8,1,1,1,1,4,"1103, 2117, 3112, 4105, 4112, 4115, 4119, 5115"
+słowackiego,skołaskiego,1,1,0,0,0,0,1116
+słowackiego,skowalskiego,3,2,0,1,0,0,"1106, 1113, 2103"
+słowackiego,słowaskiego,3,1,2,0,0,0,"1118, 5109, 5111"
+słowackiego,sloweskiego,1,1,0,0,0,0,1105
+słowackiego,sklowiańkiego,1,1,0,0,0,0,1101
+słowackiego,sowaskiega,1,1,0,0,0,0,1115
+słowackiego,slowackiego,7,1,0,1,1,4,"1112, 2118, 3114, 4103, 4104, 4109, 4122"
+słowackiego,słowaksjego,1,0,1,0,0,0,5112
+słowackiego,słowockiego,1,0,1,0,0,0,5104
+słowackiego,słowacjego,2,0,2,0,0,0,"5116, 5117"
+słowackiego,słowasjego,1,0,1,0,0,0,5111
+słowackiego,szlowatsjego,1,0,1,0,0,0,5113
+słowackiego,szlowakiego,1,0,0,1,0,0,2119
+słowackiego,slowaczkiego,1,0,0,1,0,0,2115
+słowackiego,szłowackiego,2,0,0,1,0,1,"2113, 4108"
+słowackiego,słowaczkiego,1,0,0,1,0,0,2120
+słowackiego,slowacziego,1,0,0,1,0,0,2107
+słowackiego,słowaksiego,1,0,0,1,0,0,2101
+słowackiego,slowłasigo,1,0,0,0,1,0,3102
+słowackiego,stowancziengeu,1,0,0,0,1,0,3117
+słowackiego,słowakiego,3,0,0,0,2,1,"3108, 3113, 4114"
+słowackiego,słaswiego,1,0,0,0,1,0,3106
+słowackiego,sjowackie,1,0,0,0,0,1,4101
+słowackiego,slowajego,1,0,0,0,0,1,4120
+słowackiego,sławagiego,1,0,0,0,0,1,4106
+idź,iść,1,1,0,0,0,0,1103
+idź,ich,1,0,1,0,0,0,5112
+idź,ichś,1,0,1,0,0,0,5112
+idź,ikś,1,0,1,0,0,0,5112
+idź,idźsz,1,0,1,0,0,0,5120
+sklepem,skret,1,1,0,0,0,0,1103
+sklepem,sklepu,12,4,0,0,0,8,"1105, 1106, 1112, 1116, 4103, 4106, 4109, 4110, 4114, 4118, 4119, 4123"
+sklepem,sklebe,1,1,0,0,0,0,1113
+sklepem,sklept,1,1,0,0,0,0,1118
+sklepem,sklepts,1,1,0,0,0,0,1115
+sklepem,sklepen,1,0,1,0,0,0,5101
+sklepem,szklepe,5,0,2,1,2,0,"2102, 3112, 3114, 5104, 5118"
+sklepem,sklep,15,0,1,7,2,5,"2104, 2106, 2114, 2115, 2117, 2119, 2120, 3115, 3119, 4101, 4102, 4105, 4108, 4120, 5117"
+sklepem,sklepiem,3,0,1,0,1,1,"3104, 4115, 5102"
+sklepem,szklep,6,0,0,6,0,0,"2103, 2105, 2107, 2109, 2113, 2118"
+sklepem,szklepem,4,0,0,0,4,0,"3107, 3108, 3115, 3116"
+ulica,ulisze,1,1,0,0,0,0,1116
+ulica,ulika,1,1,0,0,0,0,1118
+ulica,ulice,2,0,1,1,0,0,"2118, 5101"
+ulica,uliczia,2,0,0,2,0,0,"2101, 2119"
+ulica,ulicza,6,0,0,3,0,3,"2104, 2117, 2120, 4106, 4108, 4113"
+ulica,ulicia,1,0,0,1,0,0,2114
+ulica,julicza,1,0,0,1,0,0,2107
+ulica,jul,1,0,0,0,0,1,4109
+ulica,uli,1,0,0,0,0,1,4122
+ulica,ulic,1,0,0,0,0,1,4115
+ulica,ulisa,2,0,0,0,0,2,"4108, 4115"
+proszę,poszę,2,1,0,0,1,0,"1113, 3113"
+proszę,prożę,2,0,1,0,1,0,"3101, 5104"
+proszę,prosz,3,0,2,0,0,1,"4105, 5109, 5111"
+proszę,prosę,1,0,0,1,0,0,2105
+proszę,prosztę,1,0,0,0,0,1,4120
+proszę,pros,1,0,0,0,0,1,4108
+lewo,ljewo,1,1,0,0,0,0,1113
+lewo,wrewo,1,1,0,0,0,0,1105
+lewo,lewoł,1,0,0,0,1,0,3101
+lewo,lewou,1,0,0,0,1,0,3117
+za,zna,5,1,0,1,0,3,"1118, 2106, 4101, 4115, 4119"
+za,dza,1,0,1,0,0,0,5104
+za,tza,3,0,0,3,0,0,"2113, 2114, 2118"
+za,sza,1,0,0,1,0,0,2107
+za,zo,1,0,0,0,1,0,3113
+parku,park,6,1,1,2,1,1,"1118, 2101, 2118, 3105, 4109, 5114"
+numer,numero,3,1,0,0,0,2,"1118, 4108, 4122"
+numer,numier,1,1,0,0,0,0,1106
+numer,nume,4,0,0,1,0,3,"2103, 4114, 4117, 4120"
+numer,numeu,1,0,0,0,1,0,3109
+teatrem,teatra,1,1,0,0,0,0,1105
+teatrem,teatr,2,0,1,1,0,0,"2104, 5105"
+na,numa,2,1,0,0,0,1,"1105, 4103"
+na,zna,1,0,0,0,1,0,3115
+na,najd,1,0,0,0,1,0,3118
+na,nambe,1,0,0,0,0,1,4101
+szpitalu,ospitalu,1,1,0,0,0,0,1115
+potem,pote,2,0,2,0,0,0,"5114, 5115"
+tutaj,tutuj,1,0,1,0,0,0,5101
+środku,szrodku,1,0,1,0,0,0,5105
+skrzyżowania,szyżowani,1,0,1,0,0,0,5117
+skrzyżowania,szyżowanie,1,0,0,0,0,1,4113
+rogu,rou,1,0,1,0,0,0,5111
+skrzyżowaniu,szyżowanie,1,0,1,0,0,0,5111
+jest,est,2,0,1,0,0,1,"4105, 5111"
+jest,jeste,1,0,1,0,0,0,5109
+jest,jestem,2,0,0,2,0,0,"2109, 2118"
+jest,jes,4,0,0,1,0,3,"2104, 4108, 4115, 4117"
+jest,ject,1,0,0,1,0,0,2102
+sklep,szklep,1,0,1,0,0,0,5111
+biblioteki,biblioteke,1,0,1,0,0,0,5107
+biblioteki,biblioteka,4,0,0,1,0,3,"2120, 4105, 4108, 4119"
+biblioteki,bibliotek,1,0,0,0,1,0,3106
+biblioteki,biblioteku,2,0,0,0,0,2,"4114, 4115"
+skrzyżowaniem,krzyżowanie,1,0,1,0,0,0,5102
+skrzyżowaniem,szyżowanie,1,0,0,0,0,1,4117
+skrzyżowaniem,rzeżowanie,1,0,0,0,0,1,4106
+zielony,żelony,1,0,1,0,0,0,5120
+zielony,zielon,1,0,0,1,0,0,2106
+jechać,jegać,1,0,0,1,0,0,2115
+stacji,staczja,2,0,0,2,0,0,"2102, 2105"
+jedź,jedz,1,0,0,1,0,0,2102
+numery,numero,1,0,0,1,0,0,2118
+lewej,lewe,1,0,0,1,0,0,2118
+tam,ta,1,0,0,1,0,0,2108
+krótką,kratika,1,0,0,0,1,0,3105
+hotelem,hotelu,1,0,0,0,0,1,4109
+teatr,teatre,1,0,0,0,0,1,4118
+stacja,stasza,1,0,0,0,0,1,4119
+nazywa,nazewa,1,0,0,0,0,1,4119
+nazywa,nazawa,1,0,0,0,0,1,4105
+nazywa,nażewa,1,0,0,0,0,1,4115
+restauracją,restauracja,1,0,0,0,0,1,4119
+biblioteką,biblio,1,0,0,0,0,1,4119
+parkiem,parku,1,0,0,0,0,1,4103

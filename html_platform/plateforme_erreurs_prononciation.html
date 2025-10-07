@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <title>Erreurs de prononciation</title>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 1em;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 6px;
+      text-align: center;
+    }
+    th {
+      background-color: #eee;
+    }
+    .highlight-yellow {
+      background-color: yellow !important;
+    }
+    #button-container {
+      margin-bottom: 15px;
+    }
+    #button-container button {
+      font-size: 18px;
+      margin-right: 10px;
+      padding: 8px 15px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Erreurs de prononciation</h2>
+
+<div id="button-container">
+  <button id="btnStandard" ><b>Alphabet polonais standard</b></button>
+  <button id="btnIPA"><b>API polonais</b></button>
+</div>
+
+<div id="table-container"></div>
+
+<script>
+const COLUMNS_TO_COLOR = ["FR", "IT", "NL", "UK", "GE"];
+
+let currentData = null;
+
+function generateTable(data) {
+  currentData = data;
+  const container = document.getElementById('table-container');
+  container.innerHTML = ''; // nettoyer
+
+  generateHighlightButtons(data);
+
+  const table = document.createElement('table');
+  table.id = "errors-table";
+
+  const header = document.createElement('thead');
+  const headerRow = document.createElement('tr');
+
+  const countryIndexes = [];
+  let totalLearnersIndex = -1;
+
+  data[0].forEach((col, index) => {
+    if (col === "Apprenants") return; // ignorer cette colonne
+    const th = document.createElement('th');
+    th.textContent = col;
+    headerRow.appendChild(th);
+    if (COLUMNS_TO_COLOR.includes(col)) {
+      countryIndexes.push(index);
+    }
+    if (col === "Nombre total d'apprenants") {
+      totalLearnersIndex = index;
+    }
+  });
+
+  header.appendChild(headerRow);
+  table.appendChild(header);
+
+  const body = document.createElement('tbody');
+
+  for (let i = 1; i < data.length; i++) {
+    const row = document.createElement('tr');
+    data[i].forEach((val, j) => {
+      if (data[0][j] === "Apprenants") return; // ignorer cette colonne
+      const cell = document.createElement('td');
+      cell.textContent = val;
+      row.appendChild(cell);
+    });
+    body.appendChild(row);
+  }
+
+  table.appendChild(body);
+  container.appendChild(table);
+
+  colorHeatmap(countryIndexes, totalLearnersIndex);
+}
+
+function colorHeatmap(countryIndexes, totalLearnersIndex) {
+  const rows = document.querySelectorAll('#errors-table tbody tr');
+  const countryVals = [];
+  const totalLearnersVals = [];
+
+  rows.forEach(row => {
+    countryIndexes.forEach(idx => {
+      const cell = row.cells[idx];
+      if (cell) {
+        const val = parseInt(cell.textContent);
+        if (!isNaN(val)) countryVals.push(val);
+      }
+    });
+    if (totalLearnersIndex !== -1) {
+      const cell = row.cells[totalLearnersIndex];
+      if (cell) {
+        const val = parseInt(cell.textContent);
+        if (!isNaN(val)) totalLearnersVals.push(val);
+      }
+    }
+  });
+
+  const maxCountry = Math.max(...countryVals);
+  const maxTotal = totalLearnersVals.length > 0 ? Math.max(...totalLearnersVals) : 0;
+
+  rows.forEach(row => {
+    countryIndexes.forEach(idx => {
+      const cell = row.cells[idx];
+      if (cell) {
+        const val = parseInt(cell.textContent);
+        if (!isNaN(val)) {
+          const intensity = Math.floor(255 - (val / maxCountry) * 200);
+          cell.style.backgroundColor = `rgb(${intensity}, 255, ${intensity})`;
+        }
+      }
+    });
+    if (totalLearnersIndex !== -1) {
+      const cell = row.cells[totalLearnersIndex];
+      if (cell) {
+        const val = parseInt(cell.textContent);
+        if (!isNaN(val)) {
+          const intensity = Math.floor(255 - (val / maxTotal) * 200);
+          cell.style.backgroundColor = `rgb(${intensity}, ${intensity}, 255)`;
+        }
+      }
+    }
+  });
+}
+
+function generateHighlightButtons(data) {
+  const container = document.getElementById('table-container');
+  const buttonsDiv = document.createElement('div');
+  buttonsDiv.style.marginBottom = '10px';
+
+  const seenPairs = new Set();
+
+  for (let i = 1; i < data.length; i++) {
+    const correcte = data[i][2]?.trim();
+    const errone = data[i][3]?.trim();
+    const key = correcte + "→" + errone;
+    if (correcte && errone && !seenPairs.has(key)) {
+      seenPairs.add(key);
+      const btn = document.createElement('button');
+      btn.textContent = `'${correcte}' → '${errone}'`;
+      btn.style.marginRight = '5px';
+      btn.onclick = () => highlightRows(correcte, errone);
+      buttonsDiv.appendChild(btn);
+    }
+  }
+
+  container.prepend(buttonsDiv);
+}
+
+function highlightRows(correctVal, errorVal) {
+  const rows = document.querySelectorAll('#errors-table tbody tr');
+  let firstHighlightedRow = null;
+
+  rows.forEach(row => {
+    const correcte = row.cells[2]?.textContent.trim();
+    const errone = row.cells[3]?.textContent.trim();
+    if (correcte === correctVal && errone === errorVal) {
+      row.classList.add('highlight-yellow');
+      if (!firstHighlightedRow) {
+        firstHighlightedRow = row;
+      }
+    } else {
+      row.classList.remove('highlight-yellow');
+    }
+  });
+
+  if (firstHighlightedRow) {
+    firstHighlightedRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  }
+}
+
+
+function loadCSV(filename) {
+  fetch(filename)
+    .then(response => response.text())
+    .then(csvText => {
+      Papa.parse(csvText, {
+        complete: function(results) {
+          generateTable(results.data);
+        }
+      });
+    })
+    .catch(error => console.error('Erreur lors du chargement du CSV :', error));
+}
+
+// Gestion des boutons
+document.getElementById('btnStandard').addEventListener('click', () => {
+  loadCSV('erreurs_prononciation_groupées_par_mots.csv');
+});
+document.getElementById('btnIPA').addEventListener('click', () => {
+  loadCSV('erreurs_prononciation_groupées_par_mots_API.csv');
+});
+
+// Charger par défaut le premier fichier
+loadCSV('erreurs_prononciation_groupées_par_mots.csv');
+</script>
+
+</body>
+</html>

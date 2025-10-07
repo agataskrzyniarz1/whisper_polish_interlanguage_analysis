@@ -1,0 +1,311 @@
+Forme(s) correcte(s),Forme(s) erronée(s),Correcte,Erroné,FR,IT,NL,UK,GE,Nombre total d'apprenants,Apprenants
+szkoły,"skola, skole, skoly, skuole, szkola, szkole, szkolu, szkoly, zskola",ł,l,4,5,6,7,10,32,"1108, 1116, 1119, 1120, 2106, 2107, 2111, 2113, 2116, 2119, 3101, 3102, 3103, 3108, 3112, 3114, 3118, 4102, 4104, 4105, 4108, 4109, 4112, 4115, 4117, 4119, 4123, 5104, 5106, 5111, 5114, 5115"
+"szpitala, szpitalem","spita, spitae, spital, spitala, spitale, spitalem, spitalu, spytal",sz,s,2,5,3,8,10,28,"1117, 1119, 2114, 2115, 2116, 3101, 3105, 3106, 3109, 3112, 3113, 3117, 3118, 4101, 4112, 4114, 4115, 4116, 4117, 4118, 4119, 4120, 4122, 5102, 5106, 5107, 5109, 5115"
+iść,iś,ć,-,2,8,3,11,1,25,"1115, 1118, 2109, 2111, 2117, 3101, 3102, 3103, 3105, 3106, 3107, 3112, 3113, 3114, 3117, 3118, 4118, 5101, 5104, 5106, 5107, 5112, 5114, 5117, 5119"
+cztery,"sztere, szteri, sztery",cz,sz,2,7,9,0,7,25,"1103, 1110, 2102, 2103, 2106, 2108, 2114, 2116, 2117, 2118, 2119, 4101, 4102, 4108, 4113, 4117, 4118, 4120, 5101, 5104, 5105, 5107, 5111, 5112, 5113"
+szkoły,"skała, skola, skole, skoly, skoła, skołe, skoły, skuole",sz,s,5,5,3,2,10,25,"1108, 1110, 1116, 1119, 1120, 2107, 2108, 2116, 3101, 3109, 4101, 4104, 4105, 4108, 4109, 4112, 4116, 4117, 4119, 4123, 5101, 5106, 5107, 5111, 5115"
+"sklep, sklepem, sklepu","szklep, szklepe, szklepem, szklepu",s,sz,0,5,10,6,0,21,"2101, 2102, 2103, 2104, 2105, 2106, 2107, 2109, 2113, 2118, 3107, 3108, 3112, 3114, 3115, 3116, 5104, 5111, 5113, 5118, 5119"
+restauracji,"restorac, restoracja, restoracje, restoraczja, restoraczje, restoranca, restorancja, restoranczja, restoroka",au,o,4,0,7,4,6,21,"1106, 1113, 1119, 1120, 2103, 2105, 2106, 2108, 2117, 2118, 2120, 3103, 3104, 3107, 3116, 4101, 4105, 4109, 4115, 4116, 4122"
+słowackiego,"slowackiego, slowacziego, slowaczkiego, slowajego, slowakiego, sloweskiego, slowłasigo",ł,l,3,1,4,3,9,20,"1103, 1105, 1112, 2107, 2115, 2117, 2118, 3102, 3112, 3114, 4103, 4104, 4105, 4109, 4112, 4115, 4119, 4120, 4122, 5115"
+"ulica, ulicy, ulicą, ulicę","julicza, ulicz, ulicza, ulicze",c,cz,3,0,9,2,5,19,"1103, 1114, 1116, 2101, 2103, 2104, 2106, 2107, 2114, 2117, 2119, 2120, 3106, 3117, 4106, 4108, 4112, 4113, 4120"
+znajduje,"naduje, znaduj, znaduje",j,-,7,6,0,1,0,14,"1101, 1104, 1105, 1113, 1115, 1116, 1118, 3115, 5104, 5106, 5107, 5112, 5114, 5117"
+słowackiego,"slowakiego, szlowakiego, słowakiego, słowaksiego, słowaksjego",c,-,1,2,3,3,5,14,"1103, 2101, 2117, 2119, 3108, 3112, 3113, 4105, 4112, 4114, 4115, 4119, 5112, 5115"
+uniwersytetu,"juniwersitecz, juniwersitet, uniwersitecia, uniwersitet, uniwersitete, uniwersiteć",y,i,2,1,2,1,7,13,"1108, 1115, 2107, 2116, 3106, 4102, 4108, 4109, 4110, 4112, 4119, 4122, 5115"
+niską,"niskon, niszkon",ą,on,0,10,0,0,1,11,"4117, 5101, 5102, 5104, 5106, 5107, 5109, 5116, 5118, 5119, 5120"
+prosto,"prasta, prastu, prosta, proste, prostu, proszte",o,-,1,1,0,2,6,10,"1117, 3102, 3105, 4102, 4105, 4108, 4109, 4110, 4113, 5117"
+cztery,stery,cz,s,0,0,2,1,6,9,"2104, 2114, 3109, 4103, 4106, 4112, 4114, 4115, 4116"
+juliusza,"juliuska, żuliuska",sz,sk,7,1,0,0,1,9,"1103, 1104, 1112, 1114, 1115, 1116, 1119, 4101, 5113"
+skręcić,"skręczać, skęczać, szkręczać",ci,cza,0,0,1,0,8,9,"2106, 4102, 4103, 4109, 4110, 4116, 4118, 4119, 4123"
+ulicą,ulicon,ą,on,0,8,0,0,1,9,"4117, 5101, 5102, 5104, 5106, 5107, 5116, 5118, 5119"
+się,"szie, szię",s,sz,0,6,0,0,2,8,"4101, 4110, 5101, 5106, 5107, 5112, 5114, 5120"
+"szpitala, szpitalem, szpitalu","ospital, ospitalem, ospitalu",sz,os,4,2,1,0,1,8,"1103, 1110, 1115, 1120, 2117, 4108, 5109, 5112"
+"skręcisz, skręcić","skrencisz, skrencić, skrenciśt, szkrencisz",ę,en,7,1,0,0,0,8,"1104, 1110, 1113, 1115, 1116, 1118, 1119, 5111"
+juliusza,"dżulius, julius, juliusa, juliuse, żulius, żuliusa",sz,s,2,0,1,2,2,7,"1106, 1110, 2113, 3103, 3107, 4110, 4114"
+iść,"iśt, iśte",ć,t,0,0,2,4,1,7,"2114, 2118, 3103, 3114, 3115, 3117, 4115"
+"skręcisz, skręcić","szkrencisz, szkręcić, szkręcza, szkręczać",s,sz,1,1,4,1,0,7,"1110, 2101, 2104, 2106, 2118, 3116, 5118"
+"ulica, ulicą, ulicę","julisa, ulisa, ulisę",c,s,1,0,0,4,2,7,"1120, 3103, 3104, 3109, 3114, 4108, 4115"
+dobrą,dobron,ą,on,1,5,0,0,0,6,"1104, 5101, 5102, 5107, 5118, 5119"
+juliusza,"żulianizi, żulius, żuliusa, żuliuska",j,ż,3,1,0,2,0,6,"1103, 1106, 1115, 3102, 3103, 5113"
+"ulica, ulicą, ulicę","jul, julicza, julisa, ulicja",-,j,0,0,2,3,1,6,"2107, 2113, 3102, 3104, 3113, 4109"
+restauracji,"restraca, restracje, restracji, restrantaże",au,-,0,0,0,6,0,6,"3102, 3108, 3109, 3112, 3114, 3118"
+znajduje,"naduje, naguje, najduje",z,-,3,0,0,3,0,6,"1105, 1108, 1115, 3112, 3113, 3118"
+juliusza,"juliaszka, julieszka, juliszka, juliuszka",-,k,0,2,2,0,2,6,"2103, 2106, 4108, 4119, 5101, 5105"
+"szpitala, szpitalem","oszpital, oszpitalem, oszpitalu",-,o,1,4,0,0,0,5,"1118, 5105, 5107, 5111, 5112"
+słowackiego,"skołaskiego, sowaskiega, słowaskiego",c,s,3,2,0,0,0,5,"1115, 1116, 1118, 5109, 5111"
+skręcić,skręczić,c,cz,0,3,0,1,1,5,"3108, 4116, 5106, 5114, 5119"
+"ulica, ulicą, ulicę","jul, ul, uli",ic,-,0,3,0,0,2,5,"4109, 4122, 5104, 5106, 5115"
+skręcić,"kręciks, kręcić",s,-,0,0,3,0,2,5,"2101, 2102, 2114, 4106, 4108"
+za,zna,-,n,1,0,1,0,3,5,"1118, 2106, 4101, 4115, 4119"
+niską,"niszka, niszkon",s,sz,2,2,1,0,0,5,"1110, 1118, 2117, 5106, 5113"
+szpitalem,"hospital, hospitalem, hospitalu",sz,hos,2,0,2,0,1,5,"1105, 1115, 2101, 2119, 4106"
+juliusza,"julucza, julusza",i,-,1,1,2,0,1,5,"1105, 2114, 2119, 4112, 5106"
+iść,idź,ść,dź,5,0,0,0,0,5,"1104, 1108, 1113, 1114, 1115"
+juliusza,"dżuliaska, dżulieska, dżulius",j,dż,1,0,1,2,0,4,"1113, 2113, 3101, 3105"
+numer,nume,er,-,0,0,1,0,3,4,"2103, 4114, 4117, 4120"
+prawo,prewo,a,e,0,0,2,0,2,4,"2101, 2107, 4105, 4110"
+prosto,"proszte, proszto",s,sz,0,1,0,3,0,4,"3115, 3116, 3119, 5117"
+obok,obek,o,e,0,0,0,1,3,4,"3104, 4104, 4106, 4108"
+"skręcisz, skręcić","skrędzić, strędzisz",c,dz,0,0,2,2,0,4,"2107, 2120, 3101, 3108"
+ulicę,ulicon,-,on,0,4,0,0,0,4,"5101, 5107, 5118, 5119"
+jest,jes,t,-,0,0,1,0,3,4,"2104, 4108, 4115, 4117"
+cztery,czery,t,-,3,0,0,1,0,4,"1115, 1118, 1120, 3107"
+"numer, numery",numero,-,o,1,0,1,0,2,4,"1118, 2118, 4108, 4122"
+prosto,"prasta, prasto, prastou, prastu",o,a,0,0,0,2,2,4,"3105, 3117, 4101, 4102"
+teatru,"teat, teatu, tieat",r,-,0,0,0,2,2,4,"3112, 3118, 4101, 4103"
+prosto,"preusto, prosteu",o,eu,0,0,0,3,0,3,"3104, 3112, 3117"
+"skręcisz, skręcić","stręcić, strędzisz, strędżik",k,t,0,0,0,3,0,3,"3101, 3102, 3104"
+prawo,praweu,o,eu,0,0,0,3,0,3,"3104, 3105, 3112"
+sklepem,sklepiem,-,i,0,1,0,1,1,3,"3104, 4115, 5102"
+restauracji,"restorac, restoranca, restraca",j,-,0,0,0,2,1,3,"3104, 3114, 4115"
+restauracji,"resorancja, restoranca, restorancja",-,n,1,0,0,1,1,3,"1120, 3104, 4123"
+"skrzyżowania, skrzyżowaniu","szyżowani, szyżowanie",skrz,sz,0,2,0,0,1,3,"4113, 5111, 5117"
+uniwersytetu,"juniwersitecz, uniwersytecze, uniwersyteczem",t,cz,0,2,0,1,0,3,"3106, 5101, 5111"
+teatru,"teaczra, teaczre",t,cz,0,0,0,3,0,3,"3101, 3104, 3109"
+"ulica, ulicę","ulisza, ulisze",c,sz,2,0,0,1,0,3,"1103, 1116, 3109"
+uniwersytetu,"juniwersitecz, juniwersitet, juwersytet",-,j,1,0,1,1,0,3,"1120, 2107, 3106"
+obok,"obuk, ubak, ubok",o,u,2,0,0,0,1,3,"1115, 1120, 4113"
+skręcić,"skreciś, skręciś, szkensiś",ć,ś,2,1,0,0,0,3,"1108, 1118, 5117"
+teatru,"tieat, tieatr, tieatre",-,i,0,0,0,2,1,3,"3112, 3113, 4110"
+"ulica, ulicą, ulicę","alika, ulika",c,k,2,0,0,1,0,3,"1108, 1118, 3105"
+za,tza,-,t,0,0,3,0,0,3,"2113, 2114, 2118"
+restauracji,"restaracja, restaracji",u,-,0,0,1,1,1,3,"2111, 3115, 4103"
+juliusza,"dżulieska, julieska",usz,esk,2,0,0,1,0,3,"1113, 1118, 3101"
+"ulica, ulicę",uliczia,c,czi,0,0,3,0,0,3,"2101, 2113, 2119"
+słowackiego,skowalskiego,ł,k,2,0,1,0,0,3,"1106, 1113, 2103"
+skręcić,"skrencisz, strędzisz",ć,sz,2,0,0,1,0,3,"1110, 1115, 3101"
+słowackiego,skowalskiego,c,ls,2,0,1,0,0,3,"1106, 1113, 2103"
+się,zię,s,z,0,0,0,2,1,3,"3115, 3118, 4106"
+słowackiego,"szlowakiego, szlowatsjego",sł,szl,0,1,1,0,0,2,"2119, 5113"
+"ulicą, ulicę","alica, alika",u,a,0,0,0,2,0,2,"3105, 3116"
+juliusza,"juliska, juliske",usz,sk,0,0,0,1,1,2,"3112, 4120"
+skręcić,"skroczie, skręcie",ć,-,1,0,0,1,0,2,"1120, 3113"
+stacji,staczja,c,cz,0,0,2,0,0,2,"2102, 2105"
+restauracji,"restoraczja, restoraczje",c,cz,1,0,1,0,0,2,"1113, 2118"
+ulicę,"ulisja, ulisję",c,sj,0,0,0,2,0,2,"3101, 3108"
+skręć,skręcić,-,ci,2,0,0,0,0,2,"1102, 1103"
+kowalskich,skowalski,-,s,1,1,0,0,0,2,"1116, 5101"
+na,numa,-,um,1,0,0,0,1,2,"1105, 4103"
+juliusza,"dżuliaska, juliaska",usz,ask,0,0,0,2,0,2,"3104, 3105"
+proszę,"pros, prosę",sz,s,0,0,1,0,1,2,"2105, 4108"
+proszę,prożę,sz,ż,0,1,0,1,0,2,"3101, 5104"
+w,le,w,l,0,0,1,1,0,2,"2119, 3117"
+niską,nisko,ą,o,0,1,0,1,0,2,"3107, 5112"
+juliusza,"julisze, juliszka",u,-,0,0,0,0,2,2,"4109, 4119"
+słowackiego,szłowackiego,s,sz,0,0,1,0,1,2,"2113, 4108"
+kowalskich,kowaski,l,-,0,2,0,0,0,2,"5114, 5115"
+szpitalem,"spitae, szpitaem",l,-,0,0,0,0,2,2,"4105, 4120"
+obok,"obak, ubak",o,a,1,0,0,1,0,2,"1120, 3105"
+proszę,poszę,r,-,1,0,0,1,0,2,"1113, 3113"
+się,"cie, cię",s,c,2,0,0,0,0,2,"1104, 1115"
+skręcić,"skręc, skręca",ić,-,0,0,1,0,1,2,"2103, 4113"
+"szpitala, szpitalem","spita, szpita",al,-,1,0,0,0,1,2,"1119, 4104"
+słowackiego,słowacjego,ki,j,0,2,0,0,0,2,"5116, 5117"
+skręcić,"skrecić, skreciś",ę,e,2,0,0,0,0,2,"1118, 1120"
+"skręcisz, skręcić","czrenczisz, skrenczić",ęc,encz,1,1,0,0,0,2,"1117, 5107"
+iść,"isz, isze",ść,sz,0,1,0,1,0,2,"3101, 5109"
+skręcić,"kręciks, skręciks",ć,ks,0,0,1,1,0,2,"2101, 3103"
+uniwersytetu,"uniwezite, uniwezitet",rsy,zi,0,0,0,0,2,2,"4106, 4113"
+teatru,"teatsz, teatszem",r,sz,0,2,0,0,0,2,"5101, 5112"
+słowackiego,"skołaskiego, slołackiego",ow,-,2,0,0,0,0,2,"1108, 1116"
+"sklepem, sklepu",sklept,-,t,2,0,0,0,0,2,"1117, 1118"
+prosto,proto,s,-,1,0,0,0,1,2,"1120, 4115"
+słowackiego,"slowaczkiego, słowaczkiego",c,cz,0,0,2,0,0,2,"2115, 2120"
+jest,est,j,-,0,1,0,0,1,2,"4105, 5111"
+cztery,czjery,t,j,0,0,1,0,0,1,2107
+słowackiego,sowaskiega,ł,-,1,0,0,0,0,1,1115
+słowackiego,sjowackie,ł,j,0,0,0,0,1,1,4101
+słowackiego,sklowiańkiego,ł,kl,1,0,0,0,0,1,1101
+słowackiego,stowancziengeu,ł,t,0,0,0,1,0,1,3117
+środku,szrodku,ś,sz,0,1,0,0,0,1,5105
+uniwersytetu,uniwersiteć,t,ć,1,0,0,0,0,1,1115
+restauracji,resorancja,tau,o,0,0,0,0,1,1,4123
+biblioteką,biblio,teką,-,0,0,0,0,1,1,4119
+prosto,pros,to,-,0,0,0,1,0,1,3117
+teatru,restorauk,tr,uk,1,0,0,0,0,1,1110
+nazywa,nazawa,y,a,0,0,0,0,1,1,4105
+juliusza,juliaszka,u,a,0,0,1,0,0,1,2103
+ulicą,elicha,u,e,0,0,0,1,0,1,3105
+w,cz,w,cz,1,0,0,0,0,1,1117
+w,dze,w,dz,0,1,0,0,0,1,5117
+w,es,w,es,1,0,0,0,0,1,1120
+w,ez,w,ez,0,1,0,0,0,1,5106
+w,ne,w,n,0,0,1,0,0,1,2106
+w,obe,w,ob,0,0,0,1,0,1,3105
+w,pre,w,pr,0,0,0,0,1,1,4114
+juliusza,julieszka,u,e,0,0,1,0,0,1,2106
+ulicę,olicę,u,o,0,0,0,1,0,1,3115
+znajduje,znajdywo,uj,ywo,1,0,0,0,0,1,1114
+juliusza,żulianizi,usz,aniz,0,0,0,1,0,1,3102
+juliusza,julicza,usz,cz,0,0,1,0,0,1,2115
+iść,iszte,ść,szt,0,0,0,1,0,1,3115
+słowackiego,sławagiego,o,a,0,0,0,0,1,1,4106
+cztery,scztery,-,s,1,0,0,0,0,1,1116
+i,si,-,s,1,0,0,0,0,1,1102
+słowackiego,słowaksiego,-,s,0,0,1,0,0,1,2101
+słowackiego,stowancziengeu,o,eu,0,0,0,1,0,1,3117
+skręć,skrenć,ę,en,1,0,0,0,0,1,1106
+się,sien,ę,en,0,0,0,0,1,1,4112
+ulicą,luczi,-,l,0,0,1,0,0,1,2107
+słowackiego,slołackiego,-,lo,1,0,0,0,0,1,1108
+restauracji,restoraucje,-,or,1,0,0,0,0,1,1110
+dobrą,dorba,-,r,0,0,0,1,0,1,3108
+prosto,prostro,-,r,0,0,0,1,0,1,3107
+teatru,restorauk,-,res,1,0,0,0,0,1,1110
+idź,idźsz,-,sz,0,1,0,0,0,1,5120
+skręcić,szkensiś,-,szken,1,0,0,0,0,1,1108
+sklepu,sklepd,-,d,0,1,0,0,0,1,5109
+sklepu,skelp,-,e,0,0,0,1,0,1,3106
+słowackiego,sowaskiega,-,eg,1,0,0,0,0,1,1115
+sklepem,sklepen,-,en,0,1,0,0,0,1,5101
+słowackiego,slowłasigo,-,go,0,0,0,1,0,1,3102
+i,ic,-,ic,0,0,0,0,1,1,4116
+juliusza,juliuszko,-,ko,0,1,0,0,0,1,5118
+słowackiego,skołaskiego,-,ko,1,0,0,0,0,1,1116
+uwaga,waga,u,-,1,0,0,0,0,1,1110
+ulicą,ulico,ą,o,0,1,0,0,0,1,5112
+na,najd,-,ajd,0,0,0,1,0,1,3118
+na,nambe,-,amb,0,0,0,0,1,1,4101
+uniwersytetu,uniwesytietu,r,-,0,0,0,0,1,1,4103
+numer,numeu,r,-,0,0,0,1,0,1,3109
+skręcić,szkręcza,cić,cz,0,0,1,0,0,1,2106
+skręcić,skręczak,cić,czak,0,0,0,0,1,1,4105
+skręcić,skręczek,cić,czek,0,0,0,0,1,1,4105
+skręcić,skręczen,cić,czen,0,0,0,1,0,1,3117
+restauracji,restrantaże,cj,ntaż,0,0,0,1,0,1,3102
+stacja,stasza,cj,sz,0,0,0,0,1,1,4119
+słowackiego,slowacziego,ck,cz,0,0,1,0,0,1,2107
+słowackiego,sławagiego,ck,g,0,0,0,0,1,1,4106
+restauracji,restoranczja,c,ncz,0,0,1,0,0,1,2106
+ulicę,ulipia,c,pi,0,0,0,1,0,1,3105
+ulicą,uliszia,c,szi,0,0,0,1,0,1,3108
+słowackiego,sklowiańkiego,c,ń,1,0,0,0,0,1,1101
+jechać,jegać,ch,g,0,0,1,0,0,1,2115
+skręcić,skręć,ci,-,1,0,0,0,0,1,1106
+iść,jiść,-,j,0,0,1,0,0,1,2105
+lewo,ljewo,-,j,1,0,0,0,0,1,1113
+w,wo,-,o,0,0,1,0,0,1,2107
+"ulica, ulicą, ulicę",ulicia,-,i,0,0,1,0,0,1,2114
+niską,niskie,-,i,0,0,0,0,1,1,4103
+kowalskich,kowalskiego,-,i,1,0,0,0,0,1,1119
+uniwersytetu,uniwesytietu,-,i,0,0,0,0,1,1,4103
+słowackiego,sklowiańkiego,-,i,1,0,0,0,0,1,1101
+numer,numier,-,i,1,0,0,0,0,1,1106
+krótką,kratika,-,i,0,0,0,1,0,1,3105
+prosto,prusto,o,u,0,0,0,1,0,1,3106
+szkoły,szkuła,o,u,0,1,0,0,0,1,5112
+dobrą,dorba,r,-,0,0,0,1,0,1,3108
+skręcić,skęczać,r,-,0,0,0,0,1,1,4109
+prosto,posto,r,-,1,0,0,0,0,1,1113
+szkoły,skała,o,a,1,0,0,0,0,1,1110
+skręcić,skręczyć,ci,czy,0,0,0,0,1,1,4103
+tutaj,tutuj,a,u,0,1,0,0,0,1,5101
+słowackiego,sloweskiego,ac,es,1,0,0,0,0,1,1105
+restauracji,restoroka,acj,ok,0,0,0,1,0,1,3103
+słowackiego,słaswiego,ack,-,0,0,0,1,0,1,3106
+tam,ta,am,-,0,0,1,0,0,1,2108
+ulicą,elicha,c,ch,0,0,0,1,0,1,3105
+skręcić,strędżik,c,dż,0,0,0,1,0,1,3102
+"sklepem, sklepu",sklepts,-,ts,1,0,0,0,0,1,1115
+szkoły,skuole,-,u,1,0,0,0,0,1,1116
+dom,zdom,-,z,0,0,0,0,1,1,4105
+na,zna,-,z,0,0,0,1,0,1,3115
+słowackiego,slowłasigo,-,ł,0,0,0,1,0,1,3102
+lewo,lewoł,-,ł,0,0,0,1,0,1,3101
+restauracji,resturacja,a,-,0,0,0,0,1,1,4108
+słowackiego,słowockiego,a,o,0,1,0,0,0,1,5104
+znajduje,znazduje,j,z,1,0,0,0,0,1,1110
+znajduje,naguje,jd,g,0,0,0,1,0,1,3112
+obok,obo,k,-,0,0,0,0,1,1,4117
+sklepu,slepu,k,-,0,0,0,0,1,1,4104
+skręć,strejć,k,t,1,0,0,0,0,1,1114
+obok,obot,k,t,1,0,0,0,0,1,1104
+słowackiego,słowaksjego,i,sj,0,1,0,0,0,1,5112
+się,stę,i,t,0,0,0,0,1,1,4105
+niską,nyska,i,y,0,0,0,1,0,1,3105
+szpitala,spytal,i,y,0,0,0,1,0,1,3105
+ulicę,ulcze,ic,cz,0,0,0,1,0,1,3106
+idź,ich,idź,-,0,1,0,0,0,1,5112
+juliusza,juleska,iusz,esk,1,0,0,0,0,1,1118
+idź,ikś,dź,kś,0,1,0,0,0,1,5112
+idź,iść,dź,ść,1,0,0,0,0,1,1103
+sklepu,skelp,e,-,0,0,0,1,0,1,3106
+teatru,tiatr,e,i,1,0,0,0,0,1,1106
+teatru,restorauk,e,or,1,0,0,0,0,1,1110
+uniwersytetu,uniwezite,et,-,0,0,0,0,1,1,4106
+rogu,rou,g,-,0,1,0,0,0,1,5111
+skręcić,skręcać,i,a,0,0,0,0,1,1,4104
+słowackiego,stowancziengeu,ck,ncz,0,0,0,1,0,1,3117
+słowackiego,slowłasigo,ck,s,0,0,0,1,0,1,3102
+słowackiego,slowajego,cki,j,0,0,0,0,1,1,4120
+słowackiego,słowasjego,cki,sj,0,1,0,0,0,1,5111
+słowackiego,szlowatsjego,cki,tsj,0,1,0,0,0,1,5113
+cztery,ctery,cz,c,0,0,1,0,0,1,2111
+idź,ichś,dź,chś,0,1,0,0,0,1,5112
+jedź,jedz,dź,dz,0,0,1,0,0,1,2102
+skrzyżowaniem,rzeżowanie,sk,-,0,0,0,0,1,1,4106
+skręcisz,czrenczisz,sk,cz,1,0,0,0,0,1,1117
+sklepu,szlep,sk,sz,0,0,0,1,0,1,3101
+skrzyżowaniem,szyżowanie,skrz,sz,0,0,0,0,1,1,4117
+prosto,prochon,st,ch,0,1,0,0,0,1,5113
+uniwersytetu,uniwerszitet,sy,szi,0,0,1,0,0,1,2106
+juliusza,julucza,sz,cz,1,0,0,0,0,1,1105
+restauracji,restoraucje,ra,-,1,0,0,0,0,1,1110
+uniwersytetu,uniwerzitet,rsy,rzi,0,0,0,0,1,1,4123
+uniwersytetu,uniweszitet,rsy,szi,0,0,1,0,0,1,2119
+jest,ject,s,c,0,0,1,0,0,1,2102
+się,ście,s,śc,1,0,0,0,0,1,1105
+skręcić,skrenczen,ęcić,enczen,0,0,0,1,0,1,3117
+skręcić,skręciak,ć,ak,0,0,1,0,0,1,2115
+iść,iśc,ć,c,0,0,0,1,0,1,3105
+iść,iścz,ć,cz,1,0,0,0,0,1,1117
+skręcić,skręcicz,ć,cz,0,1,0,0,0,1,5101
+skręcić,strędżik,ć,k,0,0,0,1,0,1,3102
+skręcić,skrenciśt,ć,śt,1,0,0,0,0,1,1118
+skrzyżowaniem,rzeżowanie,y,e,0,0,0,0,1,1,4106
+nazywa,nazewa,y,e,0,0,0,0,1,1,4119
+za,dza,z,dz,0,1,0,0,0,1,5104
+za,sza,z,sz,0,0,1,0,0,1,2107
+zielony,żelony,zi,ż,0,1,0,0,0,1,5120
+nazywa,nażewa,zy,że,0,0,0,0,1,1,4115
+krótką,kratika,ó,a,0,0,0,1,0,1,3105
+restauracji,restaurasja,c,s,0,1,0,0,0,1,5112
+obok,eubok,o,eu,0,0,0,1,0,1,3105
+za,zo,-,o,0,0,0,1,0,1,3113
+proszę,prosztę,-,t,0,0,0,0,1,1,4120
+"ulicy, ulicą","ulidza, ulidze",c,dz,0,1,0,0,0,1,5120
+kowalskich,kowal,sk,-,0,1,0,0,0,1,5102
+obok,obut,ok,ut,1,0,0,0,0,1,1115
+szkoły,szkula,oł,ul,0,0,0,0,1,1,4113
+prawo,brawo,p,b,0,0,1,0,0,1,2103
+sklepem,sklebe,p,b,1,0,0,0,0,1,1113
+prawo,grawo,p,g,1,0,0,0,0,1,1120
+sklepem,skret,p,t,1,0,0,0,0,1,1103
+skręć,styryć,k,ty,0,0,0,0,1,1,4120
+skręcić,szkensiś,kręc,-,1,0,0,0,0,1,1108
+sklepem,skret,l,r,1,0,0,0,0,1,1103
+lewo,wrewo,l,wr,1,0,0,0,0,1,1105
+ulicą,luczi,lic,cz,0,0,1,0,0,1,2107
+dom,do,m,-,1,0,0,0,0,1,1120
+uniwersytetu,juwersytet,ni,-,1,0,0,0,0,1,1120
+słowackiego,słaswiego,o,as,0,0,0,1,0,1,3106
+prosto,presto,o,e,1,0,0,0,0,1,1101
+skrzyżowaniem,krzyżowanie,s,-,0,1,0,0,0,1,5102
+skrzyżowania,szyżowani,i,-,0,1,0,0,0,1,5117
+parkiem,parku,i,-,0,0,0,0,1,1,4103
+juliusza,juliżasi,usz,żas,0,0,1,0,0,1,2107
+juliusza,juliuza,sz,z,0,0,0,1,0,1,3114
+szpitala,zapital,sz,za,0,0,0,1,0,1,3102
+szpitalem,zospitalu,sz,zos,0,0,1,0,0,1,2102
+szkoły,zskola,sz,zs,0,0,0,1,0,1,3102
+niską,niskom,ą,om,1,0,0,0,0,1,1104
+uniwersytetu,uniwersitecia,t,ci,0,0,0,0,1,1,4112
+cztery,cziery,t,i,0,0,0,0,1,1,4119
+iść,iszcze,ść,szcz,1,0,0,0,0,1,1117
+skręć,strejć,ę,ej,1,0,0,0,0,1,1114
+skręcić,skremcić,ę,em,0,1,0,0,0,1,5113
+skręć,styryć,ę,y,0,0,0,0,1,1,4120
+skręcić,skroczie,ęc,ocz,1,0,0,0,0,1,1120
+skręcić,skrynczyć,ęci,ynczy,0,0,0,1,0,1,3106
+skręcić,skręcinć,-,n,0,0,0,1,0,1,3109
+prosto,prochon,-,n,0,1,0,0,0,1,5113
+słowackiego,stowancziengeu,-,n,0,0,0,1,0,1,3117
