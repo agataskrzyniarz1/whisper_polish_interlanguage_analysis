@@ -64,6 +64,26 @@ Two main error domains were studied:
 
 An interactive Python-based visualization tool allows inspection of recurrent sound-level errors.
 
+### How to run the platform
+
+In the terminal:
+
+```bash
+python3 -m http.server 8000
+```
+
+In the browser:
+
+```bash
+http://localhost:8000
+```
+
+**Important:**
+In the same folder as the file plateforme_erreurs_prononciation.html, you must have the following files (located in the data/processed/csv directory):
+- `erreurs_prononciation_groupées_par_mots_API.csv`
+- `erreurs_prononciation_groupées_par_mots.csv`
+
+
 ## Morphosyntactic Analysis
 
 **Tool:** spaCy
