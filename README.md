@@ -144,7 +144,7 @@ Whisper tends to “normalize” learner speech — it corrects non-native pronu
 ### Fine-tuning Whisper for Polish interlanguage:
 Develop a version of Whisper trained on a dedicated corpus of learner speech, enabling the model to transcribe interlanguage forms rather than correcting them to standard Polish.
 
---> Requires a manually annotated dataset created by native speakers with linguistic expertise.
---> Explore whether separate models are needed for specific L1 groups (pronunciation errors may vary across L1s, but case-related errors appear universal, suggesting one general model could suffice)
---> Learner errors evolve with proficiency, so future corpora should include diverse speech types across different contexts.
---> Enhance systems like spaCy for more accurate case detection in non-standard learner language.
+- Requires a manually annotated dataset created by native speakers with linguistic expertise.
+- Explore whether separate models are needed for specific L1 groups (pronunciation errors may vary across L1s, but case-related errors appear universal, suggesting one general model could suffice)
+- Learner errors evolve with proficiency, so future corpora should include diverse speech types across different contexts.
+- Enhance systems like spaCy for more accurate case detection in non-standard learner language.
