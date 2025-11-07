@@ -5,7 +5,7 @@ The project investigates how current Automatic Speech Recognition tools handle n
 
 ### Project Overview
 
-The project explores the challenges of processing interlanguage speech—utterances produced by learners of Polish as a second language (L2).
+The project explores the challenges of processing interlanguage speech – utterances produced by learners of Polish as a second language (L2).
 Using a corpus of learner recordings from the VILLA Project (adult participants completing a “Route Direction” task), the study examines how well automated tools capture both phonetic and morphological errors typical of early stages of L2 acquisition.
 
 The analysis combines:
@@ -54,7 +54,7 @@ Two main error domains were studied:
 
 **Declension deviations:**
 
-- Frequent misuse of grammatical cases — especially overuse of the nominative in contexts requiring genitive or instrumental.
+- Frequent misuse of grammatical cases – especially overuse of the nominative in contexts requiring genitive or instrumental.
 - Errors often followed predictable confusion between Genitive, Instrumental, Locative and Accusative forms.
 
 **Pronunciation deviations:**
@@ -62,7 +62,7 @@ Two main error domains were studied:
 - Frequent reduction of consonant clusters, vowel denasalization, and devoicing.
 - Tendencies among L1 groups.
 
-An interactive Python-based visualization tool allows inspection of recurrent sound-level errors.
+An interactive visualization tool allows inspection of recurrent sound-level errors.
 
 ### How to run the platform
 
@@ -157,7 +157,7 @@ Each automatically transcribed word was compared with its manual and corrected v
 
 **Conclusions:**
 
-Whisper tends to “normalize” learner speech — it corrects non-native pronunciations into fluent native-like forms, which undermines the goal of faithfully capturing the learner’s interlanguage. However, declension-related errors were often transcribed correctly, showing partial morphological robustness.
+Whisper tends to “normalize” learner speech – it corrects non-native pronunciations into fluent native-like forms, which undermines the goal of faithfully capturing the learner’s interlanguage. However, declension-related errors were often transcribed correctly, showing partial morphological robustness.
 
 ## Future Directions
 
