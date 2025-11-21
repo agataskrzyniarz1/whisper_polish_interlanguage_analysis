@@ -79,7 +79,7 @@ http://localhost:8000
 ```
 
 **Important:**
-In the same folder as the file `plateforme_erreurs_prononciation.html`, you must have the following files (located in the `data/processed/csv` directory):
+In the same folder as the file `plateforme_erreurs_prononciation.html`, you must have the following files:
 - `erreurs_prononciation_groupées_par_mots_API.csv`
 - `erreurs_prononciation_groupées_par_mots.csv`
 
